@@ -1,4 +1,4 @@
-# apposcopy
+# Apposcopy & Astroid
 Semantics-Based Detection of Android Malware through Static Analysis
 
 Please refer to our papers for more details:
@@ -9,10 +9,12 @@ http://www.cs.utexas.edu/~yufeng/papers/ndss17-astroid.pdf
 Prerequisite:
 
 Please make sure that you have installed JDK1.8, ANT and Android SDK and set the following env:
+```
 export ANT_HOME=/home/yu/libs/apache-ant-1.9.2
 export ANDROID_HOME=/home/yu/libs/android-sdk-linux
 export JAVA_HOME=/home/yu/libs/jdk1.8.0_91
 export PATH=~/bin:$JAVA_HOME/bin:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$ANT_HOME/bin:$PATH
+```
 
 Please note that currently our tool only support Android SDK up to level 19. In order to reproduce the result in FSE'14, you might want to 
 manually install old SDKs from level 3 to level 19 using the interface of Android SDK tool. 
@@ -52,20 +54,25 @@ To analyze a malware (Say, an app from ADRD family):
 
 1. To use the zero-day malware detection you just need to use the script ./approximate.sh
 
+```
    Usage: ./approximate.sh <signature> <sample> <cutoff>
    Cutoff: [0--10000]
    WARNING: No .json files can exist in the current directory!
+```
 
    Example1:
    ./approximate.sh signatures/ADRD.json samples/fse14/ADRD/09b143b430e836c513279c0209b7229a4d29a18c.json 4927 0
 
+```
    Output:
    Malware
    10000 ADRD
+```
 
    Example2a using lexicographical order:
    ./approximate.sh signatures samples/fse14/ADRD/09b143b430e836c513279c0209b7229a4d29a18c.json 4927 0
 
+```
    Output:
    Malware
    10000 ADRD
@@ -81,10 +88,12 @@ To analyze a malware (Say, an app from ADRD family):
    1014 BeanBot
    392 BaseBridge
    49 jSMSHider
+```
 
    Example2b using lexicographical order with frequency analysis:
    ./approximate.sh signatures samples/fse14/ADRD/09b143b430e836c513279c0209b7229a4d29a18c.json 4927 1		
 
+```
    Malware
    10000 ADRD
    6363 DroidDream
@@ -98,6 +107,7 @@ To analyze a malware (Say, an app from ADRD family):
    28 DroidKungFu
    5 BaseBridge
    4 AnserverBot
+```
 
 Enjoy:-)
 
