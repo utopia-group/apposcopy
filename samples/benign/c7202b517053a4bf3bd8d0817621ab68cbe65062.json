@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.radiovoodoo.android.station.kiys.RadioVoodoo"],"services":["com.radiovoodoo.android.station.kiys.RvStreamerService"],"receivers":[],"iccg":[{"val0":"com.radiovoodoo.android.station.kiys.RadioVoodoo","val1":"com.radiovoodoo.android.station.kiys.RvStreamerService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

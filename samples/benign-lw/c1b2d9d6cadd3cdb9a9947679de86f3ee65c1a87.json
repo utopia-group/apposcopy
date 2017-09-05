@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.seb.SLWP.Prefs"],"services":["com.seb.SLWP.SLWP"],"receivers":[],"iccg":[{"val0":"com.seb.SLWP.SLWP","val1":"com.seb.SLWP.SLWP"},{"val0":"com.seb.SLWP.SLWP","val1":"com.seb.SLWP.Prefs"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

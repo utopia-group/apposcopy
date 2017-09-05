@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.nd.android.pandatheme.PandaThemeActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.nd.android.pandatheme.PandaThemeActivity","val1":"com.nd.android.pandatheme.PandaThemeActivity"},{"val0":"com.nd.android.pandatheme.PandaThemeActivity","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

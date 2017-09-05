@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.foncannoninc.airhornmulti.intro","com.foncannoninc.airhornmulti.Startup"],"services":[],"receivers":[],"iccg":[{"val0":"com.foncannoninc.airhornmulti.intro","val1":"com.foncannoninc.airhornmulti.Startup"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

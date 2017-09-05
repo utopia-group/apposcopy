@@ -1,0 +1,1 @@
+{"family":"[]","activities":["std.grays.contactwall.ContactWall"],"services":[],"receivers":["std.grays.contactwall.ContactWallWidget"],"iccg":[{"val0":"std.grays.contactwall.ContactWall","val1":"std.grays.contactwall.ContactWallWidget"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

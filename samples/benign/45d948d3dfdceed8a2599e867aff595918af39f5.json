@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.in3.android.Vivekananda"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.in3.android.Vivekananda","val1":"$MODEL","val2":"com.in3.android.Vivekananda","val3":"!INTERNET"}]}

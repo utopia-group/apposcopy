@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.arora.shivaarti.splashscreen","com.arora.shivaarti.about","com.arora.shivaarti.aartimy"],"services":[],"receivers":[],"iccg":[{"val0":"com.arora.shivaarti.splashscreen","val1":"com.arora.shivaarti.aartimy"},{"val0":"com.arora.shivaarti.aartimy","val1":"com.arora.shivaarti.about"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

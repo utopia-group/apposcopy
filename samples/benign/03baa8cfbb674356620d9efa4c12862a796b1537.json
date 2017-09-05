@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.quickclick.atm.main","com.google.ads.AdActivity","com.quickclick.atm.MenuDisplay"],"services":[],"receivers":[],"iccg":[{"val0":"com.quickclick.atm.main","val1":"com.quickclick.atm.MenuDisplay"},{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

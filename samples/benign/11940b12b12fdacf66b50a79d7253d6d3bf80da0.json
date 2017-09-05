@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.codxp.galaxia.Galaxia"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.codxp.galaxia.Galaxia","val1":"$MODEL","val2":"com.codxp.galaxia.Galaxia","val3":"!WebView"}]}

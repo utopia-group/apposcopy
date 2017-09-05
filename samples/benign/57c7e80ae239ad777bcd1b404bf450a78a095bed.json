@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.strickling.perseid.Perseid","com.strickling.perseid.Perseid_Select"],"services":[],"receivers":[],"iccg":[{"val0":"com.strickling.perseid.Perseid","val1":"com.strickling.perseid.Perseid_Select"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

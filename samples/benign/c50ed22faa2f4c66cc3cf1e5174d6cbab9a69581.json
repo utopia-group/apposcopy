@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.easelife.android.pisces.compass.Compass","org.easelife.android.pisces.compass.About","org.easelife.android.pisces.compass.Setting"],"services":[],"receivers":[],"iccg":[{"val0":"org.easelife.android.pisces.compass.Compass","val1":"org.easelife.android.pisces.compass.About"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

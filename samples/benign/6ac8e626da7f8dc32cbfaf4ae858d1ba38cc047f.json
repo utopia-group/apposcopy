@@ -1,0 +1,1 @@
+{"family":"[]","activities":["statsheet.statblogs.USCUpdate.Webview","statsheet.statblogs.USCUpdate.Splash"],"services":[],"receivers":[],"iccg":[{"val0":"statsheet.statblogs.USCUpdate.Splash","val1":"statsheet.statblogs.USCUpdate.Webview"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

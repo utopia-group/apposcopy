@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.jbreat.game.spit.activity.SetActivity","com.jbreat.game.spit.activity.HelpActivity","com.google.ads.AdActivity","com.jbreat.game.spit.activity.LogoActivity","com.jbreat.game.spit.activity.GameActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

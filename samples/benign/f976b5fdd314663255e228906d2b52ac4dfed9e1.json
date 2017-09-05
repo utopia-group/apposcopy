@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wapit.carz.UIManager"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.wapit.carz.UIManager","val1":"$getDeviceId","val2":"com.wapit.carz.UIManager","val3":"!INTERNET"}],"samples":[]}

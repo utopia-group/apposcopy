@@ -1,0 +1,1 @@
+{"family":"[]","activities":["singapore.digitalmobilemap.com.VGPS"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"singapore.digitalmobilemap.com.VGPS","val1":"\u003cjavax.crypto.Cipher: byte[] doFinal(byte[])\u003e"}],"taintFlows":[]}

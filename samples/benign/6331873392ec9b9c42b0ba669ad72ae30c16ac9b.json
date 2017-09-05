@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.jappit.android.apnitaliani.ItalianApn","com.jappit.android.apnitaliani.InfoActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.jappit.android.apnitaliani.ItalianApn","val1":"com.jappit.android.apnitaliani.InfoActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.elfekki.MainActivity","com.elfekki.aboutActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.elfekki.MainActivity","val1":"com.elfekki.MainActivity"},{"val0":"com.elfekki.MainActivity","val1":"com.elfekki.aboutActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

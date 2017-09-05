@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.danvelazco.glance.GlanceActivity","com.danvelazco.glance.ExcludedApplications","com.danvelazco.glance.LVAlert"],"services":["com.danvelazco.glance.NotificationsAccessibilityService"],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

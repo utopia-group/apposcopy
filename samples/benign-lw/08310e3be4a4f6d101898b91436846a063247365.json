@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.YSM.nanhai.TxtBrowser","com.YSM.nanhai.Cover"],"services":[],"receivers":[],"iccg":[{"val0":"com.YSM.nanhai.Cover","val1":"com.YSM.nanhai.TxtBrowser"},{"val0":"com.YSM.nanhai.Cover","val1":"com.YSM.nanhai.Cover"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

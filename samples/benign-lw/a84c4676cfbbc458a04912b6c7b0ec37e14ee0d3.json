@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.div.bullemania.Main","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.div.bullemania.Main","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

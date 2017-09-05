@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.phonegap.DroidGap","com.chrome.appmaker.wikitravelmobilemos.MoscowCityGuide"],"services":[],"receivers":[],"iccg":[{"val0":"com.phonegap.DroidGap","val1":"com.phonegap.DroidGap"},{"val0":"com.chrome.appmaker.wikitravelmobilemos.MoscowCityGuide","val1":"com.phonegap.DroidGap"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.artelplus.howtodraw.Main","com.artelplus.howtodraw.Step"],"services":[],"receivers":[],"iccg":[{"val0":"com.artelplus.howtodraw.Main","val1":"com.artelplus.howtodraw.Main"},{"val0":"com.artelplus.howtodraw.Main","val1":"com.artelplus.howtodraw.Step"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

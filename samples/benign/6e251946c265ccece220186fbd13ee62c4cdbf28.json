@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.tvt.p2pplayer.P2PPlayer","com.tvt.p2pplayer.SetView"],"services":[],"receivers":[],"iccg":[{"val0":"com.tvt.p2pplayer.P2PPlayer","val1":"com.tvt.p2pplayer.SetView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

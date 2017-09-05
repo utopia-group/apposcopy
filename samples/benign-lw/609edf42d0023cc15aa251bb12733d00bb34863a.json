@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.fgrim.parchis4a.Preferences","com.fgrim.parchis4a.Parchis4A"],"services":[],"receivers":[],"iccg":[{"val0":"com.fgrim.parchis4a.Parchis4A","val1":"com.fgrim.parchis4a.Preferences"},{"val0":"com.fgrim.parchis4a.Parchis4A","val1":"com.fgrim.parchis4a.Parchis4A"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

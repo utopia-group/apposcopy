@@ -1,0 +1,1 @@
+{"family":"[]","activities":["cn.parsec.makeitwrong.FakeWorld","cn.parsec.makeitwrong.SearchAddress"],"services":[],"receivers":[],"iccg":[{"val0":"cn.parsec.makeitwrong.FakeWorld","val1":"cn.parsec.makeitwrong.SearchAddress"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.jorgonlor.volumecontrol.Options","com.jorgonlor.volumecontrol.Main"],"services":[],"receivers":[],"iccg":[{"val0":"com.jorgonlor.volumecontrol.Main","val1":"com.jorgonlor.volumecontrol.Options"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

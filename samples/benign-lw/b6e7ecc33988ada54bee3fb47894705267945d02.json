@@ -1,0 +1,1 @@
+{"family":"[]","activities":["us.andtoo.sleepsong.PlayActivity","us.andtoo.sleepsong.MainActivity"],"services":[],"receivers":[],"iccg":[{"val0":"us.andtoo.sleepsong.MainActivity","val1":"us.andtoo.sleepsong.PlayActivity"},{"val0":"us.andtoo.sleepsong.MainActivity","val1":"us.andtoo.sleepsong.MainActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

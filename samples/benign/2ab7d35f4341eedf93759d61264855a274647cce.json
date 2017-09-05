@@ -1,0 +1,1 @@
+{"family":"[]","activities":["statsheet.statblogs.StJoeDaily.Webview","statsheet.statblogs.StJoeDaily.Splash"],"services":[],"receivers":[],"iccg":[{"val0":"statsheet.statblogs.StJoeDaily.Splash","val1":"statsheet.statblogs.StJoeDaily.Webview"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

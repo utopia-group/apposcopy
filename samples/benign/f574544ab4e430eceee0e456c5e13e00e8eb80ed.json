@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.cocos2dx.application_hpoker02.m5"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"org.cocos2dx.application_hpoker02.m5","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[]}

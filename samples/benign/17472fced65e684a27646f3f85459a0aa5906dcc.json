@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.m2appl.HelloCopyrightTab.ConnectivityManager","com.m2appl.HelloCopyrightTab.HelloCopyrightTab","com.m2appl.HelloCopyrightTab.Logo"],"services":[],"receivers":[],"iccg":[{"val0":"com.m2appl.HelloCopyrightTab.HelloCopyrightTab","val1":"com.m2appl.HelloCopyrightTab.Logo"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

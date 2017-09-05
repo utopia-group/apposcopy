@@ -1,0 +1,1 @@
+{"family":"[]","activities":["cn.com.wali.walisms.plugin.font.FontPluginActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"cn.com.wali.walisms.plugin.font.FontPluginActivity","val1":"\u003cjava.lang.ClassLoader: java.lang.Class loadClass(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

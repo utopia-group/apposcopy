@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mip.astrologistlivechat.ProfileActivity","com.mip.astrologistlivechat.MenuActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.mip.astrologistlivechat.MenuActivity","val1":"com.mip.astrologistlivechat.ProfileActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

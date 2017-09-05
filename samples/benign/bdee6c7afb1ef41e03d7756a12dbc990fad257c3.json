@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.appgeneration.appetite.Main","com.appgeneration.nguides.POI_Map"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.appgeneration.appetite.Main","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.reg.MainRegActivity"],"services":[],"receivers":["com.reg.SmsReceiver"],"iccg":[],"intentFilters":[{"val0":"com.reg.SmsReceiver","val1":"android.provider.Telephony.SMS_RECEIVED"}],"dangerAPIs":[],"taintFlows":[]}

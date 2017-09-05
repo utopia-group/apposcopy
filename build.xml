@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="apposcopy" default="jar">
+
+  <dirname property="this.dir" file="${ant.file}"/>
+  <property name="target.loc" location="${target}"/>
+
+  <target name="analyze" depends="jar">
+	<java classname="com.apposcopy.synthesis.Main"
+          maxmemory="4g"
+          fork="true"
+          failonerror="true">
+	      <jvmarg value="-ea" />
+      <classpath>
+    	<pathelement location="./apposcopy.jar"/>
+    	<pathelement location="bin/stamp.main.jar"/>
+		<pathelement location="lib/soot.jar"/>
+		<pathelement location="lib/stamp.chord.jar"/>
+		<pathelement location="lib/gson-2.3.1.jar"/>
+		<pathelement location="lib/org.sat4j.core_2.3.5.v201308161310.jar"/>
+		<pathelement location="lib/org.sat4j.pb_2.3.5.v201404071733.jar"/>
+      </classpath>
+      <arg value="${target.loc}"/>
+	</java>
+  </target>
+
+  <target name="sigGen">
+	<java classname="com.apposcopy.synthesis.SignatureGen"
+          maxmemory="4g"
+          fork="true"
+          failonerror="true">
+	      <jvmarg value="-ea" />
+      <classpath>
+    	<pathelement location="./apposcopy.jar"/>
+    	<pathelement location="bin/stamp.main.jar"/>
+		<pathelement location="lib/soot.jar"/>
+		<pathelement location="lib/stamp.chord.jar"/>
+		<pathelement location="lib/gson-2.3.1.jar"/>
+		<pathelement location="lib/org.sat4j.core_2.3.5.v201308161310.jar"/>
+		<pathelement location="lib/org.sat4j.pb_2.3.5.v201404071733.jar"/>
+      </classpath>
+      <arg value="${target.loc}"/>
+      <arg value="${encoding}"/>
+      <arg value="${size}"/>
+      <arg value="${freq}"/>
+	</java>
+  </target>
+
+  <target name="reachable">
+	<java classname="com.apposcopy.synthesis.ReachablePaths"
+          maxmemory="4g"
+          fork="true"
+          failonerror="true">
+	      <jvmarg value="-ea" />
+      <classpath>
+    	<pathelement location="./apposcopy.jar"/>
+    	<pathelement location="bin/stamp.main.jar"/>
+		<pathelement location="lib/soot.jar"/>
+		<pathelement location="lib/stamp.chord.jar"/>
+		<pathelement location="lib/gson-2.3.1.jar"/>
+		<pathelement location="lib/org.sat4j.core_2.3.5.v201308161310.jar"/>
+		<pathelement location="lib/org.sat4j.pb_2.3.5.v201404071733.jar"/>
+      </classpath>
+      <arg value="${sig}"/>
+	</java>
+  </target>
+
+  <target name="score">
+  <java classname="com.apposcopy.synthesis.SignatureDiff"
+          maxmemory="4g"
+          fork="true"
+          failonerror="true">
+        <jvmarg value="-ea" />
+      <classpath>
+      <pathelement location="./apposcopy.jar"/>
+      <pathelement location="bin/stamp.main.jar"/>
+    <pathelement location="lib/soot.jar"/>
+    <pathelement location="lib/stamp.chord.jar"/>
+    <pathelement location="lib/gson-2.3.1.jar"/>
+    <pathelement location="lib/org.sat4j.core_2.3.5.v201308161310.jar"/>
+    <pathelement location="lib/org.sat4j.pb_2.3.5.v201404071733.jar"/>
+      </classpath>
+      <arg value="${sig}"/>
+      <arg value="${zero}"/>
+      <arg value="${limit}"/>
+      <arg value="${function}"/>
+      <arg value="${freq}"/>
+  </java>
+  </target>
+
+  <target name="sigMatch" depends="jar">
+	<java classname="com.apposcopy.synthesis.SignatureMatching"
+          maxmemory="4g"
+          fork="true"
+          failonerror="true">
+	      <jvmarg value="-ea" />
+      <classpath>
+    	<pathelement location="./apposcopy.jar"/>
+    	<pathelement location="bin/stamp.main.jar"/>
+		<pathelement location="lib/soot.jar"/>
+		<pathelement location="lib/stamp.chord.jar"/>
+		<pathelement location="lib/gson-2.3.1.jar"/>
+		<pathelement location="lib/org.sat4j.core_2.3.5.v201308161310.jar"/>
+		<pathelement location="lib/org.sat4j.pb_2.3.5.v201404071733.jar"/>
+      </classpath>
+      <arg value="${sig}"/>
+      <arg value="${test}"/>
+	</java>
+  </target>
+
+
+  <target name="init">
+    <mkdir dir="classes"/>
+  </target>
+
+  <target name="compile" depends="init"
+        description="compile the source " >
+
+    <copy todir="classes/">
+        <fileset dir="datalog">
+        </fileset>
+    </copy>
+    <javac srcdir="src" destdir="classes" debug="true">
+	  <classpath>
+		<pathelement location="bin/stamp.main.jar"/>
+		<pathelement location="lib/soot.jar"/>
+		<pathelement location="lib/stamp.chord.jar"/>
+		<pathelement location="lib/gson-2.3.1.jar"/>
+		<pathelement location="lib/org.sat4j.core_2.3.5.v201308161310.jar"/>
+		<pathelement location="lib/org.sat4j.pb_2.3.5.v201404071733.jar"/>
+	  </classpath>
+	</javac>
+  </target>
+
+  <target name="jar" depends="compile"
+        description="generate the distribution" >
+    <jar jarfile="apposcopy.jar" basedir="classes"/>
+  </target>
+
+  <target name="clean"
+		  description="clean up" >
+    <delete dir="classes"/>
+    <delete file="apposcopy.jar"/>
+  </target>
+
+  <target name="exp" depends="jar">
+	<java classname="com.apposcopy.synthesis.Exp"
+          maxmemory="4g"
+          fork="true"
+          failonerror="true">
+	      <jvmarg value="-ea" />
+      <classpath>
+    	<pathelement location="./apposcopy.jar"/>
+    	<pathelement location="bin/stamp.main.jar"/>
+		<pathelement location="lib/soot.jar"/>
+		<pathelement location="lib/stamp.chord.jar"/>
+		<pathelement location="lib/gson-2.3.1.jar"/>
+		<pathelement location="lib/org.sat4j.core_2.3.5.v201308161310.jar"/>
+		<pathelement location="lib/org.sat4j.pb_2.3.5.v201404071733.jar"/>
+      </classpath>
+	</java>
+  </target>
+
+
+</project>

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mepro.adas.hangman","com.mepro.adas.logo","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.mepro.adas.logo","val1":"com.mepro.adas.hangman"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

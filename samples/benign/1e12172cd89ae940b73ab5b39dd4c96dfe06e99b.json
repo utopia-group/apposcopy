@@ -1,0 +1,1 @@
+{"family":"[]","activities":["mrtong.android.ui.WCCamera","mrtong.android.ui.MainActivity","mrtong.android.ui.MISPResultRcvActivity","mrtong.android.ui.L_WebviewActivity_Join"],"services":[],"receivers":[],"iccg":[{"val0":"mrtong.android.ui.MainActivity","val1":"mrtong.android.ui.L_WebviewActivity_Join"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

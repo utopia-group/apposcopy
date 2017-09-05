@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.droidroid.mt.MusicToPhoneActivity","com.mobclix.android.sdk.MobclixBrowserActivity"],"services":["com.madvil.core.BackgroundService"],"receivers":[],"iccg":[{"val0":"com.droidroid.mt.MusicToPhoneActivity","val1":"com.madvil.core.BackgroundService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

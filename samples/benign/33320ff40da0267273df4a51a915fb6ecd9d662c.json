@@ -1,0 +1,1 @@
+{"family":"[]","activities":["club.ilcc.ShowMsg","club.ilcc.ilcc"],"services":[],"receivers":["club.ilcc.C2DMReceiver"],"iccg":[{"val0":"club.ilcc.C2DMReceiver","val1":"club.ilcc.ShowMsg"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

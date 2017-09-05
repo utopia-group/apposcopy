@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mybooft.resetunreadsms.ResetUnreadSms"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.mybooft.resetunreadsms.ResetUnreadSms","val1":"$MODEL","val2":"com.mybooft.resetunreadsms.ResetUnreadSms","val3":"!INTERNET"}]}

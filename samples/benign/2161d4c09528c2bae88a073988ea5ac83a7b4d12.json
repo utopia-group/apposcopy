@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.greenfish.TaskEditor","com.greenfish.About","com.greenfish.TaskList","com.greenfish.Detail"],"services":[],"receivers":[],"iccg":[{"val0":"com.greenfish.TaskList","val1":"com.greenfish.TaskEditor"},{"val0":"com.greenfish.TaskList","val1":"com.greenfish.About"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

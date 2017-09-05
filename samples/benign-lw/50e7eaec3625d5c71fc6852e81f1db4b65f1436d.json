@@ -1,0 +1,1 @@
+{"family":"[]","activities":["fi.nor.h91.exko.FacebookLike","fi.nor.h91.exko.RollingSmiley"],"services":[],"receivers":[],"iccg":[{"val0":"fi.nor.h91.exko.RollingSmiley","val1":"fi.nor.h91.exko.FacebookLike"},{"val0":"fi.nor.h91.exko.RollingSmiley","val1":"fi.nor.h91.exko.RollingSmiley"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

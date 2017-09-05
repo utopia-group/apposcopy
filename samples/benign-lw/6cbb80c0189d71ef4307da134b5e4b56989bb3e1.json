@@ -1,0 +1,1 @@
+{"family":"[]","activities":["buunyan.pzl.swapblock.game"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"buunyan.pzl.swapblock.game","val1":"$MODEL","val2":"buunyan.pzl.swapblock.game","val3":"!INTERNET"},{"val0":"buunyan.pzl.swapblock.game","val1":"$MyTime","val2":"buunyan.pzl.swapblock.game","val3":"!INTERNET"}],"samples":[]}

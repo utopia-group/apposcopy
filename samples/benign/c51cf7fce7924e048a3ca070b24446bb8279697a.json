@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.malarkey.berrydroid.WebSkeleton","com.malarkey.berrydroid.SplashScreen"],"services":[],"receivers":[],"iccg":[{"val0":"com.malarkey.berrydroid.SplashScreen","val1":"com.malarkey.berrydroid.WebSkeleton"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

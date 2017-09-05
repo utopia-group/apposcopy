@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.qapp.Qapp0000000300000003.QappActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.qapp.Qapp0000000300000003.QappActivity","val1":"$getDeviceId","val2":"com.qapp.Qapp0000000300000003.QappActivity","val3":"!INTERNET"}],"samples":[]}

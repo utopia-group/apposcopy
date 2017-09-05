@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.youkaicountry.massage.MassageMain","com.admob.android.ads.AdMobActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.admob.android.ads.AdMobActivity","val1":"$MODEL","val2":"com.admob.android.ads.AdMobActivity","val3":"!INTERNET"}],"samples":[]}

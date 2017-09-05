@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.rdconcept.android.traficbordeaux.TraficBordeaux","com.rdconcept.android.traficbordeaux.Preferences"],"services":[],"receivers":[],"iccg":[{"val0":"com.rdconcept.android.traficbordeaux.TraficBordeaux","val1":"com.rdconcept.android.traficbordeaux.Preferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

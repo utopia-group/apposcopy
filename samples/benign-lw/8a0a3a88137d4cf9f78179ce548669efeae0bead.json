@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.weirdbuildingsp2.slideshowactivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.weirdbuildingsp2.slideshowactivity","val1":"$MyTime","val2":"com.weirdbuildingsp2.slideshowactivity","val3":"!INTERNET"}],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.sic.spodtronic.MainActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.sic.spodtronic.MainActivity","val1":"$getDeviceId","val2":"com.sic.spodtronic.MainActivity","val3":"!INTERNET"}]}

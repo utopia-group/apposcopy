@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.chris.talkingfred.about","com.chris.talkingfred.mainactivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.chris.talkingfred.mainactivity","val1":"com.chris.talkingfred.about"},{"val0":"com.chris.talkingfred.mainactivity","val1":"com.chris.talkingfred.mainactivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

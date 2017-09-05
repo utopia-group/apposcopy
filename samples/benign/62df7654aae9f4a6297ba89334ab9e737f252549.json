@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wolfmountainapps.android.ashevilleinfo.Prefs","com.wolfmountainapps.android.ashevilleinfo.AshevilleInfo"],"services":[],"receivers":[],"iccg":[{"val0":"com.wolfmountainapps.android.ashevilleinfo.AshevilleInfo","val1":"com.wolfmountainapps.android.ashevilleinfo.Prefs"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

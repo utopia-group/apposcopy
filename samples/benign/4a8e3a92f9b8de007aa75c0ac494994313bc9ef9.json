@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mrselected.paidopinion.shopping.HomeActivity","com.mrselected.paidopinion.shopping.SplashActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.mrselected.paidopinion.shopping.SplashActivity","val1":"com.mrselected.paidopinion.shopping.HomeActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

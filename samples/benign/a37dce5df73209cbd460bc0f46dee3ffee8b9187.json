@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.hyperkani.dropit.DropIt"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.hyperkani.dropit.DropIt","val1":"$getDeviceId","val2":"com.hyperkani.dropit.DropIt","val3":"!WebView"},{"val0":"com.hyperkani.dropit.DropIt","val1":"$getDeviceId","val2":"com.hyperkani.dropit.DropIt","val3":"!INTERNET"}]}

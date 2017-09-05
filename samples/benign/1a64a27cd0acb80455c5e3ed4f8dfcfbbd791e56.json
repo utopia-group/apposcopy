@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.aglakti.Calgary.Parking.CalgaryParkingStallsActivity","com.aglakti.Calgary.Parking.ParkadePreferenceActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.aglakti.Calgary.Parking.CalgaryParkingStallsActivity","val1":"com.aglakti.Calgary.Parking.ParkadePreferenceActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

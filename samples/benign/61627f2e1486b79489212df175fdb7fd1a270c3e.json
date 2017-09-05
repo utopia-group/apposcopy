@@ -1,0 +1,1 @@
+{"family":"[]","activities":["de.androidcrowd.tacho.MyMap","de.androidcrowd.tacho.Tacho","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"de.androidcrowd.tacho.Tacho","val1":"de.androidcrowd.tacho.MyMap"},{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

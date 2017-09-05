@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.zh_weir.videoplayer.VideoPlayerActivity","com.zh_weir.videoplayer.VideoChooseActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.zh_weir.videoplayer.VideoPlayerActivity","val1":"com.zh_weir.videoplayer.VideoChooseActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

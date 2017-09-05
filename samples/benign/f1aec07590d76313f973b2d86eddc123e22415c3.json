@@ -1,0 +1,1 @@
+{"family":"[]","activities":["pro.floss.icinga.NagiosMonitor","pro.floss.icinga.Preferences"],"services":["pro.floss.icinga.service.NagiosService"],"receivers":[],"iccg":[{"val0":"pro.floss.icinga.NagiosMonitor","val1":"pro.floss.icinga.Preferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

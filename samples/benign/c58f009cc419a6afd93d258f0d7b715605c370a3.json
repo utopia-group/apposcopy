@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.znisms.Login","com.znisms.sendSMS","com.znisms.register"],"services":[],"receivers":[],"iccg":[{"val0":"com.znisms.Login","val1":"com.znisms.sendSMS"},{"val0":"com.znisms.Login","val1":"com.znisms.register"},{"val0":"com.znisms.sendSMS","val1":"com.znisms.Login"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

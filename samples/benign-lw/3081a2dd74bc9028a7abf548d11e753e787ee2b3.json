@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gocom.google.ads.AdActivity","acg.wallpaper.SetWallpaperActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"acg.wallpaper.SetWallpaperActivity","val1":"\u003candroid.app.WallpaperManager: void setBitmap(android.graphics.Bitmap)\u003e"}],"taintFlows":[],"samples":[]}

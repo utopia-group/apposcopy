@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mobclix.android.sdk.MobclixBrowserActivity","cn.bluesky.sudoku.SudokuClassics","com.google.ads.AdActivity","com.phonegap.DroidGap"],"services":[],"receivers":[],"iccg":[{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

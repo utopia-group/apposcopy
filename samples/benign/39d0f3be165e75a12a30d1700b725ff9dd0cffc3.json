@@ -1,0 +1,1 @@
+{"family":"[]","activities":["wolke.M24.MVP_Example","com.kuad.ADDisplay"],"services":[],"receivers":[],"iccg":[{"val0":"wolke.M24.MVP_Example","val1":"com.kuad.ADDisplay"},{"val0":"com.kuad.ADDisplay","val1":"com.kuad.ADDisplay"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

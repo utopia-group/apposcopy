@@ -1,0 +1,1 @@
+{"family":"[]","activities":["kr.ccc.t0520_Tablo2012032820.MainActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"kr.ccc.t0520_Tablo2012032820.MainActivity","val1":"$getDeviceId","val2":"kr.ccc.t0520_Tablo2012032820.MainActivity","val3":"!INTERNET"}],"samples":[]}

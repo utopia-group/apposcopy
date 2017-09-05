@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":["com.anttek.remote.smb.SmbService"],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.anttek.remote.smb.SmbService","val1":"$File","val2":"com.anttek.remote.smb.SmbService","val3":"!INTERNET"}]}

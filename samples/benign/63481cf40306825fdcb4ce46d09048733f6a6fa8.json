@@ -1,0 +1,1 @@
+{"family":"[]","activities":["cn.kamakama.android.dof.DoFDiagram","cn.kamakama.android.dof.DoFCalc"],"services":[],"receivers":[],"iccg":[{"val0":"cn.kamakama.android.dof.DoFCalc","val1":"cn.kamakama.android.dof.DoFDiagram"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["smart.movies.android.widget.Browser","smart.movies.android.widget.Smart"],"services":[],"receivers":[],"iccg":[{"val0":"smart.movies.android.widget.Smart","val1":"smart.movies.android.widget.Browser"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.dhashvir.easyrng.EasyRandomNumberGeneratorActivity","com.google.ads.AdActivity"],"services":["com.dhashvir.easyrng.RNGWidget$RNGWidgetService"],"receivers":["com.dhashvir.easyrng.RNGWidget"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

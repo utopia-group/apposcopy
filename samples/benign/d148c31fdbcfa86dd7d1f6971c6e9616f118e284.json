@@ -1,0 +1,1 @@
+{"family":"[]","activities":["sic.nzb.app.Preferences","sic.nzb.app.NzbActivity"],"services":["sic.nzb.app.DownloadService"],"receivers":[],"iccg":[{"val0":"sic.nzb.app.NzbActivity","val1":"sic.nzb.app.Preferences"},{"val0":"sic.nzb.app.DownloadService","val1":"sic.nzb.app.NzbActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

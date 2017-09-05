@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.diegoyarza.smstomail.smstomail"],"services":[],"receivers":["com.diegoyarza.smstomail.SmsReceiver"],"iccg":[],"intentFilters":[{"val0":"com.diegoyarza.smstomail.SmsReceiver","val1":"android.provider.Telephony.SMS_RECEIVED"}],"dangerAPIs":[],"taintFlows":[]}

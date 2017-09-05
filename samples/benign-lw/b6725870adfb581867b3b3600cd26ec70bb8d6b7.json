@@ -1,0 +1,1 @@
+{"family":"[]","activities":["jp.co.mapion.android.fukushima.MainActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"jp.co.mapion.android.fukushima.MainActivity","val1":"$MyTime","val2":"jp.co.mapion.android.fukushima.MainActivity","val3":"!INTERNET"}],"samples":[]}

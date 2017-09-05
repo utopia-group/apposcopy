@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.modulus.fun.sirensalarms.SirensandalarmsActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.modulus.fun.sirensalarms.SirensandalarmsActivity","val1":"$File","val2":"com.modulus.fun.sirensalarms.SirensandalarmsActivity","val3":"!FILE"}],"samples":[]}

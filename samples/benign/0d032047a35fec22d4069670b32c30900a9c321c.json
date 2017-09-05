@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.bw.PickStation","com.bw.ViewStation","com.bw.InfoStation"],"services":["com.bw.RadioAccess"],"receivers":[],"iccg":[{"val0":"com.bw.ViewStation","val1":"com.bw.PickStation"},{"val0":"com.bw.ViewStation","val1":"com.bw.RadioAccess"},{"val0":"com.bw.ViewStation","val1":"com.bw.InfoStation"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

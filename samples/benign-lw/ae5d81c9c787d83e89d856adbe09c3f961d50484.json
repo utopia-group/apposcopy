@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.rhp.acfree.Calendar"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.rhp.acfree.Calendar","val1":"$File","val2":"com.rhp.acfree.Calendar","val3":"!INTERNET"}],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.temolder.calculator.Calculator","com.google.ads.AdActivity","com.temolder.calculator.Splash"],"services":[],"receivers":[],"iccg":[{"val0":"com.temolder.calculator.Splash","val1":"com.temolder.calculator.Calculator"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

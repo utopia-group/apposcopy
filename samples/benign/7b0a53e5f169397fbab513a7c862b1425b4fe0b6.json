@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.tw55555.Content","com.tw55555.Config","com.tw55555.Main","com.tw55555.puzzle.Game"],"services":[],"receivers":[],"iccg":[{"val0":"com.tw55555.Main","val1":"com.tw55555.Content"},{"val0":"com.tw55555.Main","val1":"com.tw55555.Config"},{"val0":"com.tw55555.Main","val1":"com.tw55555.puzzle.Game"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

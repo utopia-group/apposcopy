@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mobclix.android.sdk.MobclixBrowserActivity","com.anprom.appcombine.AppCombineActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.anprom.appcombine.AppCombineActivity","val1":"$File","val2":"com.anprom.appcombine.AppCombineActivity","val3":"!FILE"}]}

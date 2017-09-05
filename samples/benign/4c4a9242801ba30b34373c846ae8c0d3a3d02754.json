@@ -1,0 +1,1 @@
+{"family":"[]","activities":["no.driftfun.g2share.ConfigureGallery","no.driftfun.g2share.ShareImage"],"services":[],"receivers":[],"iccg":[{"val0":"no.driftfun.g2share.ShareImage","val1":"no.driftfun.g2share.ConfigureGallery"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.admob.android.ads.AdMobActivity","com.freesms.sv.FreeSMSElSalvador","com.google.ads.AdActivity"],"services":[],"receivers":["com.admob.android.ads.analytics.InstallReceiver"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

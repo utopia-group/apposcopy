@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.dooqu.android.ledbanner.Settings","com.dooqu.android.ledbanner.Banner"],"services":[],"receivers":[],"iccg":[{"val0":"com.dooqu.android.ledbanner.Banner","val1":"com.dooqu.android.ledbanner.Settings"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

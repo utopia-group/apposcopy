@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.nwhy.aCuteSudoku.aCuteSudoku","org.nwhy.aCuteSudoku.Game"],"services":[],"receivers":[],"iccg":[{"val0":"org.nwhy.aCuteSudoku.aCuteSudoku","val1":"org.nwhy.aCuteSudoku.Game"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

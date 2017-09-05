@@ -1,0 +1,1 @@
+{"family":"[]","activities":["biz.neoline.test.MainActivity","biz.neoline.test.TestActivity"],"services":[],"receivers":[],"iccg":[{"val0":"biz.neoline.test.MainActivity","val1":"biz.neoline.test.TestActivity"}],"intentFilters":[],"dangerAPIs":[{"val0":"biz.neoline.test.TestActivity","val1":"\u003candroid.content.BroadcastReceiver: void abortBroadcast()\u003e"}],"taintFlows":[]}

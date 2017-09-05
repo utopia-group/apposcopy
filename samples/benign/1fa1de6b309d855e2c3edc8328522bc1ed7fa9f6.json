@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.appventive.groupring.SoundPicker","com.appventive.groupring.GroupSettings","com.appventive.groupring.GroupRing"],"services":[],"receivers":["com.appventive.groupring.SyncReceiver"],"iccg":[{"val0":"com.appventive.groupring.GroupRing","val1":"com.appventive.groupring.SoundPicker"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

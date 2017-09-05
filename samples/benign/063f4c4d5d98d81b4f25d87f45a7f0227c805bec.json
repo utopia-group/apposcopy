@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.linoleumapps.penguin.PengiunPinball","com.linoleumapps.penguin.Arcs"],"services":[],"receivers":[],"iccg":[{"val0":"com.linoleumapps.penguin.PengiunPinball","val1":"com.linoleumapps.penguin.Arcs"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

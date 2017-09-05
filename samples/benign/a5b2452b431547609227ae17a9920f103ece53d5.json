@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.webapp.co.kr.WebActivity","com.webapp.co.kr.WebAppNo1Activity"],"services":[],"receivers":[],"iccg":[{"val0":"com.webapp.co.kr.WebAppNo1Activity","val1":"com.webapp.co.kr.WebActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

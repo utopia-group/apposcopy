@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.allove.mobile.hanfa.ContentActivity","org.allove.mobile.hanfa.HanfaActivity"],"services":[],"receivers":[],"iccg":[{"val0":"org.allove.mobile.hanfa.HanfaActivity","val1":"org.allove.mobile.hanfa.ContentActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

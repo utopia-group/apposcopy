@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.abnsave.abnofficesupplies.ABNOfficeSupplies","com.abnsave.abnofficesupplies.SplashScreen"],"services":[],"receivers":[],"iccg":[{"val0":"com.abnsave.abnofficesupplies.SplashScreen","val1":"com.abnsave.abnofficesupplies.ABNOfficeSupplies"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

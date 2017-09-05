@@ -1,0 +1,1 @@
+{"family":"[]","activities":["info.asdeee.youtube_akb.WebViewActivity","info.asdeee.youtube_akb.NextOfWebViewActivity"],"services":[],"receivers":[],"iccg":[{"val0":"info.asdeee.youtube_akb.WebViewActivity","val1":"info.asdeee.youtube_akb.NextOfWebViewActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

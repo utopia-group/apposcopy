@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.omegapps.earth.earth","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.omegapps.earth.earth","val1":"\u003candroid.app.WallpaperManager: void setResource(int)\u003e"}],"taintFlows":[],"samples":[]}

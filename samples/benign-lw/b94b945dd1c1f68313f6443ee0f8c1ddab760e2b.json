@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wabbittdevs.fingerflash.flashsettings"],"services":["com.wabbittdevs.fingerflash.fingerflash"],"receivers":["com.wabbittdevs.fingerflash.OnBootReceiver"],"iccg":[],"intentFilters":[{"val0":"com.wabbittdevs.fingerflash.OnBootReceiver","val1":"android.intent.action.BOOT_COMPLETED"}],"dangerAPIs":[],"taintFlows":[],"samples":[]}

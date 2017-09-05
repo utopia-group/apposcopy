@@ -1,0 +1,1 @@
+{"family":"[]","activities":["cc.co.mgvx.oc.ResultActivity","cc.co.mgvx.oc.MainActivity"],"services":[],"receivers":[],"iccg":[{"val0":"cc.co.mgvx.oc.MainActivity","val1":"cc.co.mgvx.oc.ResultActivity"},{"val0":"cc.co.mgvx.oc.MainActivity","val1":"cc.co.mgvx.oc.MainActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

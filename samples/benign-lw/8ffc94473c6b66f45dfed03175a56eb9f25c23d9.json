@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.damazio.notifier.locale.notify.MainHelperActivity","org.damazio.notifier.locale.notify.EditActivity"],"services":[],"receivers":["org.damazio.notifier.locale.notify.FireReceiver"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

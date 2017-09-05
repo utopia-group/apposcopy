@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.overstock.LottoActivity","com.overstock.OverstockWebView"],"services":[],"receivers":[],"iccg":[{"val0":"com.overstock.OverstockWebView","val1":"com.overstock.LottoActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

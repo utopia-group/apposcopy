@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.checast.radio21.Radio21"],"services":[],"receivers":[],"iccg":[{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[{"val0":"com.checast.radio21.Radio21","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[]}

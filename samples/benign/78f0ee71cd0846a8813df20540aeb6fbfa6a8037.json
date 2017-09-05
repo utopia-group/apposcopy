@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.anzoo.a1278570876413.Main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.anzoo.a1278570876413.Main","val1":"$MODEL","val2":"com.anzoo.a1278570876413.Main","val3":"!INTERNET"}]}

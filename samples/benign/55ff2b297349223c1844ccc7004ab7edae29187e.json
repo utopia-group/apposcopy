@@ -1,0 +1,1 @@
+{"family":"[]","activities":["ciel.project.daretei.DareteiTimer"],"services":["ciel.project.daretei.WakeupService"],"receivers":[],"iccg":[{"val0":"ciel.project.daretei.DareteiTimer","val1":"ciel.project.daretei.WakeupService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

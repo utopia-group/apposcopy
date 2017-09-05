@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.yahoo.yrl.InStore.Scanner","com.yahoo.yrl.InStore.InStoreActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.yahoo.yrl.InStore.InStoreActivity","val1":"com.yahoo.yrl.InStore.Scanner"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

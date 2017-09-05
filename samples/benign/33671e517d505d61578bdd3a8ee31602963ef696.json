@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","net.fighttime.qpcx.qpcx"],"services":[],"receivers":[],"iccg":[{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

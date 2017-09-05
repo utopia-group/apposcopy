@@ -1,0 +1,1 @@
+{"family":"[]","activities":["sofkos.frogsjump.MainActivity","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"sofkos.frogsjump.MainActivity","val1":"sofkos.frogsjump.MainActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

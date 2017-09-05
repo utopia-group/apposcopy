@@ -1,0 +1,1 @@
+{"family":"[]","activities":["Alex.namespace.Preferences","Alex.namespace.AlexwebbrowserActivity"],"services":[],"receivers":[],"iccg":[{"val0":"Alex.namespace.AlexwebbrowserActivity","val1":"Alex.namespace.Preferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

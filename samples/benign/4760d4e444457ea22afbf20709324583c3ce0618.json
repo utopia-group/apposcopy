@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.erdao.SnapFace.ImageViewActivity","com.erdao.SnapFace.SnapFaceActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.erdao.SnapFace.SnapFaceActivity","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[]}

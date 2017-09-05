@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.nd.android.player.MainActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.nd.android.player.MainActivity","val1":"com.nd.android.player.MainActivity"},{"val0":"com.nd.android.player.MainActivity","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

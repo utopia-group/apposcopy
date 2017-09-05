@@ -1,0 +1,1 @@
+{"family":"[]","activities":["msn.android.Preferences","msn.android.Home","msn.android.SplashScreen"],"services":[],"receivers":[],"iccg":[{"val0":"msn.android.Home","val1":"msn.android.Preferences"},{"val0":"msn.android.SplashScreen","val1":"msn.android.Home"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.modulus.fun.arnoldsb.ArnoldActivity","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.modulus.fun.arnoldsb.ArnoldActivity","val1":"$File","val2":"com.modulus.fun.arnoldsb.ArnoldActivity","val3":"!FILE"}],"samples":[]}

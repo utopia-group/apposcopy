@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.bigtincan.nixsync.NixSync","com.bigtincan.nixsync.Restore"],"services":[],"receivers":[],"iccg":[{"val0":"com.bigtincan.nixsync.NixSync","val1":"com.bigtincan.nixsync.Restore"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

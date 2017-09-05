@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.asai.lotteryInfo.LotteryInfoMain","com.asai.lotteryInfo.LotteryHisDetail"],"services":[],"receivers":[],"iccg":[{"val0":"com.asai.lotteryInfo.LotteryInfoMain","val1":"com.asai.lotteryInfo.LotteryHisDetail"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

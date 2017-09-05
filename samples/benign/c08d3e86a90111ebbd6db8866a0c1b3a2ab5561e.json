@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.buduroid.dogbuzz.activityDogBuzz"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.buduroid.dogbuzz.activityDogBuzz","val1":"\u003cjavax.crypto.Cipher: byte[] doFinal(byte[])\u003e"}],"taintFlows":[]}

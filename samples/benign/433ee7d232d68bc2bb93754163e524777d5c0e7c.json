@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mshift.faacu.RegularBankingActivity","com.mshift.faacu.MShiftTabBarWidget","com.mshift.faacu.LocationsActivity","com.mshift.faacu.SplashScreen"],"services":[],"receivers":[],"iccg":[{"val0":"com.mshift.faacu.SplashScreen","val1":"com.mshift.faacu.MShiftTabBarWidget"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

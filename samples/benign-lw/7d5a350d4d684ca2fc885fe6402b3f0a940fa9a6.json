@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wp.pxYukoIchihara.pxYukoIchihara","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.pxYukoIchihara.pxYukoIchihara","val1":"com.wp.pxYukoIchihara.pxYukoIchihara"},{"val0":"com.wp.pxYukoIchihara.pxYukoIchihara","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

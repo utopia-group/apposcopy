@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.qingting.lbs.jiepang","com.qingting.lbs.photosViewer"],"services":["com.qingting.lbs.LocationService"],"receivers":[],"iccg":[{"val0":"com.qingting.lbs.jiepang","val1":"com.qingting.lbs.LocationService"},{"val0":"com.qingting.lbs.jiepang","val1":"com.qingting.lbs.photosViewer"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

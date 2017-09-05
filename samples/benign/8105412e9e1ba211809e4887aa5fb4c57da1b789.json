@@ -1,0 +1,1 @@
+{"family":"[]","activities":["tip.calculator.TipMe","tip.calculator.listView"],"services":[],"receivers":[],"iccg":[{"val0":"tip.calculator.TipMe","val1":"tip.calculator.listView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

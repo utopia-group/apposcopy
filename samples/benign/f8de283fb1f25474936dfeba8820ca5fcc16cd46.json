@@ -1,0 +1,1 @@
+{"family":"[]","activities":["statsheet.statblogs.DailySpartan.Webview","statsheet.statblogs.DailySpartan.Splash"],"services":[],"receivers":[],"iccg":[{"val0":"statsheet.statblogs.DailySpartan.Splash","val1":"statsheet.statblogs.DailySpartan.Webview"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

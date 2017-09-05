@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.skvalex.livehockey.LiveHockey","com.skvalex.livehockey.Preferences"],"services":[],"receivers":[],"iccg":[{"val0":"com.skvalex.livehockey.LiveHockey","val1":"com.skvalex.livehockey.Preferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

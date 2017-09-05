@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.degel.everon.Main","com.degel.everon.AudioPlayer"],"services":[],"receivers":[],"iccg":[{"val0":"com.degel.everon.Main","val1":"com.degel.everon.Main"},{"val0":"com.degel.everon.Main","val1":"com.degel.everon.AudioPlayer"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

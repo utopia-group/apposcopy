@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.www_101gr_com.drumkit.Main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.www_101gr_com.drumkit.Main","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[]}

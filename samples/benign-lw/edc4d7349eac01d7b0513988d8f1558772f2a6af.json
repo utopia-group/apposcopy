@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.dseffects.BlackjackSolitaire.BlackjackSolitaire"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.dseffects.BlackjackSolitaire.BlackjackSolitaire","val1":"$MyTime","val2":"com.dseffects.BlackjackSolitaire.BlackjackSolitaire","val3":"!INTERNET"}],"samples":[]}

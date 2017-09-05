@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.custom.androidapps.About","com.custom.androidapps.Plan"],"services":[],"receivers":[],"iccg":[{"val0":"com.custom.androidapps.Plan","val1":"com.custom.androidapps.About"},{"val0":"com.custom.androidapps.Plan","val1":"com.custom.androidapps.Plan"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

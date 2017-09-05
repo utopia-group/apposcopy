@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.haven.checkticket.Main","com.haven.checkticket.HelpActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.haven.checkticket.Main","val1":"com.haven.checkticket.HelpActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["j2ab.android.bjfood.BJCityActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"j2ab.android.bjfood.BJCityActivity","val1":"$MyTime","val2":"j2ab.android.bjfood.BJCityActivity","val3":"!INTERNET"}],"samples":[]}

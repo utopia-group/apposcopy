@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","ph.jpn.sptouch.SPTouch"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"ph.jpn.sptouch.SPTouch","val1":"$MODEL","val2":"ph.jpn.sptouch.SPTouch","val3":"!INTERNET"}],"samples":[]}

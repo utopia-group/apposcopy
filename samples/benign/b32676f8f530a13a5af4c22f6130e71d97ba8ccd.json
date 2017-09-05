@@ -1,0 +1,1 @@
+{"family":"[]","activities":["edu.jhu.idcs.mobile.jcard.JCardMapActivity","edu.jhu.idcs.mobile.jcard.MobileWebViewActivity","edu.jhu.idcs.mobile.jcard.JCardMobile"],"services":[],"receivers":[],"iccg":[{"val0":"edu.jhu.idcs.mobile.jcard.JCardMobile","val1":"edu.jhu.idcs.mobile.jcard.MobileWebViewActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

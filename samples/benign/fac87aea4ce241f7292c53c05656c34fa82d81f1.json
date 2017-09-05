@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.pzm.IcTheWorld.Preferences.EditPreferences","com.pzm.IcTheWorld.ClockActivity","com.pzm.IcTheWorld.WallActivity"],"services":[],"receivers":["com.pzm.IcTheWorld.Widget.PZMWidget"],"iccg":[{"val0":"com.pzm.IcTheWorld.ClockActivity","val1":"com.pzm.IcTheWorld.Preferences.EditPreferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

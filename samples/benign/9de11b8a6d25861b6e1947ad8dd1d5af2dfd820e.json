@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.stealthcopter.portal.Portal"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.stealthcopter.portal.Portal","val1":"$MODEL","val2":"com.stealthcopter.portal.Portal","val3":"!INTERNET"}]}

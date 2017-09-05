@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.bzyg.gulongstorycollection.GuLongStoryCollection"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.bzyg.gulongstorycollection.GuLongStoryCollection","val1":"$MyTime","val2":"com.bzyg.gulongstorycollection.GuLongStoryCollection","val3":"!WebView"}],"samples":[]}

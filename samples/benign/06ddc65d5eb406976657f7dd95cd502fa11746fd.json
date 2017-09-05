@@ -1,0 +1,1 @@
+{"family":"[]","activities":["kr.woot0pia.talkreply.TalkReply"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"kr.woot0pia.talkreply.TalkReply","val1":"$getLine1Number","val2":"kr.woot0pia.talkreply.TalkReply","val3":"!WebView"}]}

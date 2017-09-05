@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ijuru.kumva.activity.EntryActivity","com.ijuru.kumva.activity.SearchActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.ijuru.kumva.activity.SearchActivity","val1":"com.ijuru.kumva.activity.EntryActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

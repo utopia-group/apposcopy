@@ -1,0 +1,1 @@
+{"family":"[]","activities":["de.mdv.MDVFileChooser","de.mdv.MinimalDicomViewer","de.mdv.FileDialog","de.mdv.MyListActivity"],"services":[],"receivers":[],"iccg":[{"val0":"de.mdv.MDVFileChooser","val1":"de.mdv.MinimalDicomViewer"},{"val0":"de.mdv.MinimalDicomViewer","val1":"de.mdv.FileDialog"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

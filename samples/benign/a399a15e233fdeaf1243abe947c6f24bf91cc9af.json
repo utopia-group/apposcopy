@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.zx.vk.MainActivity","com.zx.vk.Setting"],"services":[],"receivers":[],"iccg":[{"val0":"com.zx.vk.MainActivity","val1":"com.zx.vk.Setting"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

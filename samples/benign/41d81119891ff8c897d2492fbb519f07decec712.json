@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.u440.chronometer.prefs","com.u440.chronometer.Help","com.u440.chronometer.chronometer"],"services":[],"receivers":[],"iccg":[{"val0":"com.u440.chronometer.chronometer","val1":"com.u440.chronometer.prefs"},{"val0":"com.u440.chronometer.chronometer","val1":"com.u440.chronometer.Help"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

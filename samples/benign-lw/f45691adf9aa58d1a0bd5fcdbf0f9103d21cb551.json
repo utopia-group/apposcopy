@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.dropbox.client2.android.AuthActivity","tw.idv.gasolin.android.gfolder.FolderActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.dropbox.client2.android.AuthActivity","val1":"com.dropbox.client2.android.AuthActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

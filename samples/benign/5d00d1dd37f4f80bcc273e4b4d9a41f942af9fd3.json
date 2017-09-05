@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.bright.taxi.TaxiActivity","com.bright.taxi.TaxiHelpActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.bright.taxi.TaxiActivity","val1":"com.bright.taxi.TaxiHelpActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

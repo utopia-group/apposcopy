@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.rosiewalldayj.Splash","com.rosiewalldayj.FirstWallpaper","com.google.ads.AdActivity"],"services":[],"receivers":["com.google.ads.InstallReceiver"],"iccg":[{"val0":"com.rosiewalldayj.Splash","val1":"com.rosiewalldayj.FirstWallpaper"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["uk.co.nickfines.RealCalc.Calculator","uk.co.nickfines.calculator.MyPreferences"],"services":[],"receivers":[],"iccg":[{"val0":"uk.co.nickfines.RealCalc.Calculator","val1":"uk.co.nickfines.calculator.MyPreferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

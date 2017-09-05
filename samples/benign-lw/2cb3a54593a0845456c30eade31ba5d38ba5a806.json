@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.simplee.sexcity.Soundboard"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.simplee.sexcity.Soundboard","val1":"$File","val2":"com.simplee.sexcity.Soundboard","val3":"!FILE"}],"samples":[]}

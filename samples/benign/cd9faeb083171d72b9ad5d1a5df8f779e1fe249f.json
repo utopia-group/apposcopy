@@ -1,0 +1,1 @@
+{"family":"[]","activities":["developer.miguel.geographyok.MarketLinkActivity","developer.miguel.geographyok.GeographyInMyHand"],"services":[],"receivers":[],"iccg":[{"val0":"developer.miguel.geographyok.GeographyInMyHand","val1":"developer.miguel.geographyok.MarketLinkActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

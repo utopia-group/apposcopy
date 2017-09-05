@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wind.warOfGodhorse.MainGame","com.wind.warOfGodhorse.Prefs"],"services":[],"receivers":[],"iccg":[{"val0":"com.wind.warOfGodhorse.MainGame","val1":"com.wind.warOfGodhorse.MainGame"},{"val0":"com.wind.warOfGodhorse.MainGame","val1":"com.wind.warOfGodhorse.Prefs"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

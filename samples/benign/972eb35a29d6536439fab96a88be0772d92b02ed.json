@@ -1,0 +1,1 @@
+{"family":"[]","activities":["cn.meilisnow.tetris.online.MenuList","cn.meilisnow.tetris.online.Tetris"],"services":[],"receivers":[],"iccg":[{"val0":"cn.meilisnow.tetris.online.Tetris","val1":"cn.meilisnow.tetris.online.MenuList"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

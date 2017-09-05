@@ -1,0 +1,1 @@
+{"family":"[]","activities":["halloween.candy.free.apollo"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"halloween.candy.free.apollo","val1":"$MODEL","val2":"halloween.candy.free.apollo","val3":"!INTERNET"}]}

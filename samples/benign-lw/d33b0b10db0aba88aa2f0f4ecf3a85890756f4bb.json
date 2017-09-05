@@ -1,0 +1,1 @@
+{"family":"[]","activities":["no.dkit.android.touch4kids.Touch","no.dkit.android.lib.Splash"],"services":[],"receivers":[],"iccg":[{"val0":"no.dkit.android.touch4kids.Touch","val1":"no.dkit.android.touch4kids.Touch"},{"val0":"no.dkit.android.touch4kids.Touch","val1":"no.dkit.android.lib.Splash"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

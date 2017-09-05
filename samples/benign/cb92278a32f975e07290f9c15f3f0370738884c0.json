@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.cibc.android.mobi.SplashScreen","com.cibc.android.mobi.MobiView"],"services":[],"receivers":[],"iccg":[{"val0":"com.cibc.android.mobi.SplashScreen","val1":"com.cibc.android.mobi.MobiView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

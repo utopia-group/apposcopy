@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.sonyericsson.extras.liveview.plugins.PluginPreferences"],"services":["fr.kwett.android.liveview.dialer.DialerPluginService"],"receivers":["com.sonyericsson.extras.liveview.plugins.PluginReceiver"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

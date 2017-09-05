@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.machinegames.othello.GameActivity"],"services":[],"receivers":["com.google.ads.analytics.InstallReceiver"],"iccg":[{"val0":"com.machinegames.othello.GameActivity","val1":"com.machinegames.othello.GameActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

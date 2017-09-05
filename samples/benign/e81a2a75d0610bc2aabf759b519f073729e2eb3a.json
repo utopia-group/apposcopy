@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.fsi.verify.verify","com.fsi.verify.pref.preferences","com.fsi.verify.license","com.fsi.verify.search","com.fsi.verify.login"],"services":[],"receivers":[],"iccg":[{"val0":"com.fsi.verify.search","val1":"com.fsi.verify.verify"},{"val0":"com.fsi.verify.login","val1":"com.fsi.verify.license"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

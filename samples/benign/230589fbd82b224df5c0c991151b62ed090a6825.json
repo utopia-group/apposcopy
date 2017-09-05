@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.DFSoft.Welcome","com.DFSoft.DFSoft"],"services":[],"receivers":[],"iccg":[{"val0":"com.DFSoft.Welcome","val1":"INSTALL_APK"},{"val0":"com.DFSoft.DFSoft","val1":"com.DFSoft.Welcome"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

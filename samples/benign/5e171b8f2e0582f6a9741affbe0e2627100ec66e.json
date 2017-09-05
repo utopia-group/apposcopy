@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.digiburo.discortoday.DiscorToday","com.digiburo.discortoday.DigiBuroWebView"],"services":[],"receivers":[],"iccg":[{"val0":"com.digiburo.discortoday.DiscorToday","val1":"com.digiburo.discortoday.DigiBuroWebView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

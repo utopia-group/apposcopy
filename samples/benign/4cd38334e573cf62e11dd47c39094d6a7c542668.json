@@ -1,0 +1,1 @@
+{"family":"[]","activities":["dark.schneider.Main_Activity"],"services":["dark.schneider.Main_PlayerService"],"receivers":[],"iccg":[{"val0":"dark.schneider.Main_Activity","val1":"dark.schneider.Main_PlayerService"},{"val0":"dark.schneider.Main_Activity","val1":"dark.schneider.Main_Activity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

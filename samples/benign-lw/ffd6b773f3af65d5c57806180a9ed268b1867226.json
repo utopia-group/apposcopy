@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wp.pxKirarin.pxKirarin","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.pxKirarin.pxKirarin","val1":"com.wp.pxKirarin.pxKirarin"},{"val0":"com.wp.pxKirarin.pxKirarin","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

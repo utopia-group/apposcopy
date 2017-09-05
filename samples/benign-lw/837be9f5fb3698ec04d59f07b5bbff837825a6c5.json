@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.ringheimsauto.kalimbalite.ui.Controller","org.ringheimsauto.kalimbalite.ui.Options","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"org.ringheimsauto.kalimbalite.ui.Controller","val1":"org.ringheimsauto.kalimbalite.ui.Options"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

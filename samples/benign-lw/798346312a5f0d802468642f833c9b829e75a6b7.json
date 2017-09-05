@@ -1,0 +1,1 @@
+{"family":"[]","activities":["androidbaby.threewall.main","androidbaby.threewall.strat"],"services":[],"receivers":[],"iccg":[{"val0":"androidbaby.threewall.strat","val1":"androidbaby.threewall.main"},{"val0":"androidbaby.threewall.strat","val1":"androidbaby.threewall.strat"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

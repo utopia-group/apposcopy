@@ -1,0 +1,100 @@
+android.intent.action.NEW_OUTGOING_CALL & 54
+android.intent.action.BATTERY_LOW & 4
+android.intent.action.SIG_STR & 8
+android.intent.action.PHONE_STATE & 113
+android.provider.Telephony.SMS_RECEIVED & 118
+android.intent.action.PACKAGE_ADDED & 65
+android.intent.action.PACKAGE_REMOVED & 72
+android.provider.Telephony.SMS_SENT & 1
+android.intent.action.BOOT_COMPLETED & 1466
+android.intent.action.PACKAGE_INSTALL & 9
+android.intent.action.UMS_CONNECTED & 3
+android.net.conn.CONNECTIVITY_CHANGE & 141
+android.intent.action.PACKAGE_CHANGED & 16
+android.intent.action.PACKAGE_REPLACED & 64
+<javax.crypto.Cipher: int update(byte[],int,int,byte[],int)> & 4
+<java.lang.System: void loadLibrary(java.lang.String)> & 245
+<javax.crypto.Cipher: int doFinal(byte[],int,int,byte[])> & 1
+<javax.crypto.Cipher: byte[] doFinal(byte[])> & 2259
+<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)> & 170
+<android.app.WallpaperManager: void setBitmap(android.graphics.Bitmap)> & 53
+<java.lang.Runtime: java.lang.Process exec(java.lang.String)> & 416
+<java.lang.Runtime: java.lang.Process exec(java.lang.String,java.lang.String[])> & 1
+<java.lang.Runtime: java.lang.Process exec(java.lang.String[],java.lang.String[],java.io.File)> & 1
+<dalvik.system.DexClassLoader: void <init>(java.lang.String,java.lang.String,java.lang.String,java.lang.ClassLoader)> & 122
+<java.lang.ProcessBuilder: java.lang.Process start()> & 34
+<android.content.BroadcastReceiver: void abortBroadcast()> & 68
+<javax.crypto.Cipher: byte[] update(byte[])> & 1
+<java.lang.Runtime: java.lang.Process exec(java.lang.String[])> & 288
+<java.lang.System: void load(java.lang.String)> & 21
+<javax.crypto.Cipher: byte[] update(byte[],int,int)> & 1
+<javax.crypto.Cipher: byte[] doFinal(byte[],int,int)> & 11
+<java.lang.ClassLoader: java.lang.Class loadClass(java.lang.String)> & 259
+<android.app.WallpaperManager: void setStream(java.io.InputStream)> & 3
+<android.app.WallpaperManager: void setResource(int)> & 44
+<javax.crypto.Cipher: int doFinal(byte[],int)> & 2
+<javax.crypto.Cipher: byte[] doFinal()> & 2
+<android.telephony.SmsManager: void sendMultipartTextMessage(java.lang.String,java.lang.String,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList)> & 32
+<$SDK, !PROCESS.OutputStream> & 1
+<$getSubscriberId, !WebView> & 215
+<$getDeviceId, !WebView> & 929
+<$InstalledPackages, !ENC/DEC> & 22
+<$getLine1Number, !WebView> & 61
+<$MANUFACTURER, !FILE> & 4
+<$BRAND, !INTERNET> & 289
+<$ENC/DEC, !FILE> & 12
+<$MODEL, !INTERNET> & 4421
+<$PRODUCT, !ENC/DEC> & 1
+<$SDK, !FILE> & 7
+<$SDK, !WebView> & 623
+<$getSubscriberId, !PROCESS.OutputStream> & 3
+<$ENC/DEC, !PROCESS.OutputStream> & 5
+<$BRAND, !WebView> & 85
+<$content://sms, !WebView> & 1
+<$File, !ENC/DEC> & 157
+<$BRAND, !ENC/DEC> & 22
+<$InstalledPackages, !INTERNET> & 114
+<$getLine1Number, !PROCESS.OutputStream> & 1
+<$content://sms, !FILE> & 1
+<$getDeviceId, !INTERNET> & 1468
+<$getSubscriberId, !INTERNET> & 272
+<$File, !WebView> & 461
+<$getSubscriberId, !ENC/DEC> & 42
+<$File, !INTERNET> & 789
+<$MANUFACTURER, !PROCESS.OutputStream> & 1
+<$getSimSerialNumber, !FILE> & 23
+<$getLine1Number, !FILE> & 22
+<$ENC/DEC, !ENC/DEC> & 104
+<$InstalledPackages, !WebView> & 110
+<$PRODUCT, !FILE> & 1
+<$MODEL, !FILE> & 123
+<$File, !PROCESS.OutputStream> & 20
+<$SDK, !ENC/DEC> & 18
+<$PRODUCT, !PROCESS.OutputStream> & 1
+<$getDeviceId, !ENC/DEC> & 106
+<$BRAND, !FILE> & 17
+<$PRODUCT, !WebView> & 36
+<$getSimSerialNumber, !INTERNET> & 88
+<$MODEL, !PROCESS.OutputStream> & 9
+<$SDK, !INTERNET> & 709
+<$File, !FILE> & 392
+<$content://sms, !INTERNET> & 1
+<$BRAND, !PROCESS.OutputStream> & 4
+<$ENC/DEC, !INTERNET> & 116
+<$MANUFACTURER, !ENC/DEC> & 13
+<$getSubscriberId, !FILE> & 24
+<$MODEL, !WebView> & 2477
+<$getDeviceId, !FILE> & 73
+<$ENC/DEC, !WebView> & 43
+<$getSimSerialNumber, !WebView> & 38
+<$getSimSerialNumber, !ENC/DEC> & 22
+<$InstalledPackages, !FILE> & 2
+<$getLine1Number, !INTERNET> & 387
+<$getLine1Number, !ENC/DEC> & 49
+<$MODEL, !ENC/DEC> & 99
+<$MANUFACTURER, !INTERNET> & 694
+<$PRODUCT, !INTERNET> & 59
+<$MANUFACTURER, !WebView> & 638
+<$getDeviceId, !PROCESS.OutputStream> & 8
+<$InstalledPackages, !PROCESS.OutputStream> & 7
+<$content://sms, !ENC/DEC> & 1

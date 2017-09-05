@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mavigames.androidgames.pacratlite.pacratlite"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.mavigames.androidgames.pacratlite.pacratlite","val1":"$File","val2":"com.mavigames.androidgames.pacratlite.pacratlite","val3":"!FILE"}]}

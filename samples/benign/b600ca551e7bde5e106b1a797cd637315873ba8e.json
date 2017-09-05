@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.toastycode.readlater.Save","com.toastycode.readlater.Settings"],"services":[],"receivers":[],"iccg":[{"val0":"com.toastycode.readlater.Save","val1":"com.toastycode.readlater.Settings"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

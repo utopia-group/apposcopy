@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.amitb.edu.CPPFAQsActivity","com.amitb.edu.CPPFAQsSplashActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.amitb.edu.CPPFAQsSplashActivity","val1":"com.amitb.edu.CPPFAQsActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

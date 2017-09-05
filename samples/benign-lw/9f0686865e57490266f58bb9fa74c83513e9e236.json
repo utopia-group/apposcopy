@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.fth.kantar.KantarActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.fth.kantar.KantarActivity","val1":"$MyTime","val2":"com.fth.kantar.KantarActivity","val3":"!INTERNET"}],"samples":[]}

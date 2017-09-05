@@ -1,0 +1,1 @@
+{"family":"[]","activities":["co.uk.wellingtonweather.NotificationView","co.uk.wellingtonweather.MainActivity"],"services":["co.uk.wellingtonweather.WeatherViewService"],"receivers":[],"iccg":[{"val0":"co.uk.wellingtonweather.MainActivity","val1":"co.uk.wellingtonweather.WeatherViewService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

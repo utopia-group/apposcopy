@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.syariati.manga.MainActivity","com.syariati.manga.MangaHere","com.syariati.manga.MangaWebView"],"services":[],"receivers":[],"iccg":[{"val0":"com.syariati.manga.MainActivity","val1":"com.syariati.manga.MangaHere"},{"val0":"com.syariati.manga.MangaHere","val1":"com.syariati.manga.MangaWebView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

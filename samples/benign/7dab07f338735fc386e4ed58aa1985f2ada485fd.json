@@ -1,0 +1,1 @@
+{"family":"[]","activities":["mindware.volwidget.main"],"services":["mindware.volwidget.widgetservice"],"receivers":["mindware.volwidget.widgetservice$widgetservice_BR"],"iccg":[{"val0":"mindware.volwidget.widgetservice$widgetservice_BR","val1":"mindware.volwidget.widgetservice"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

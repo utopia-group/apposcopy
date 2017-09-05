@@ -1,0 +1,1 @@
+{"family":"[]","activities":["boston.Bus.Map.Main","boston.Bus.Map.Preferences"],"services":[],"receivers":[],"iccg":[{"val0":"boston.Bus.Map.Main","val1":"boston.Bus.Map.Preferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

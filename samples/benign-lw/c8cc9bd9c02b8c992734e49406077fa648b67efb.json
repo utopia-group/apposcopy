@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.forexonthego.android.forex.sunbird.ForexActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.forexonthego.android.forex.sunbird.ForexActivity","val1":"$getDeviceId","val2":"com.forexonthego.android.forex.sunbird.ForexActivity","val3":"!WebView"}],"samples":[]}

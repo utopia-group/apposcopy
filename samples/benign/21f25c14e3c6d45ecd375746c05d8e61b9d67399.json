@@ -1,0 +1,1 @@
+{"family":"[]","activities":["ray.xingzuo.XingZuoList","ray.xingzuo.XingZuoMenu","ray.xingzuo.XingZuo"],"services":[],"receivers":[],"iccg":[{"val0":"ray.xingzuo.XingZuoMenu","val1":"ray.xingzuo.XingZuo"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

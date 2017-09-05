@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.wp.FruitsBasket1.FruitsBasket1"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.FruitsBasket1.FruitsBasket1","val1":"com.google.ads.AdActivity"},{"val0":"com.wp.FruitsBasket1.FruitsBasket1","val1":"com.wp.FruitsBasket1.FruitsBasket1"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.whimsicalotter.baseapp.SettingsActivity","com.whimsicalotter.lightbox.Lightbox"],"services":[],"receivers":[],"iccg":[{"val0":"com.whimsicalotter.lightbox.Lightbox","val1":"com.whimsicalotter.baseapp.SettingsActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

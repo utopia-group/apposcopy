@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.act.pukapu.game"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.act.pukapu.game","val1":"$MODEL","val2":"com.act.pukapu.game","val3":"!INTERNET"}],"samples":[]}

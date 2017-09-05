@@ -1,0 +1,1 @@
+{"family":"[]","activities":["lin.wang.touchalbum.TouchAlbum","lin.wang.touchalbum.Switcher"],"services":[],"receivers":[],"iccg":[{"val0":"lin.wang.touchalbum.TouchAlbum","val1":"lin.wang.touchalbum.Switcher"},{"val0":"lin.wang.touchalbum.Switcher","val1":"lin.wang.touchalbum.TouchAlbum"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

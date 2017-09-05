@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.helllabs.android.pops.Main","org.helllabs.android.pops.Settings"],"services":[],"receivers":[],"iccg":[{"val0":"org.helllabs.android.pops.Main","val1":"org.helllabs.android.pops.Settings"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

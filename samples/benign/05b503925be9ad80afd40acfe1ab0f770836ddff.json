@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.neomtel.mxhome.theme.glass.MxThemeSettings","com.neomtel.mxhome.theme.glass.MxTheme"],"services":[],"receivers":["com.neomtel.mxhome.theme.glass.MxThemeReceiver"],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.neomtel.mxhome.theme.glass.MxTheme","val1":"\u003cjavax.crypto.Cipher: byte[] doFinal(byte[])\u003e"}],"taintFlows":[]}

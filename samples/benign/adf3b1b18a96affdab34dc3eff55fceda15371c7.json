@@ -1,0 +1,1 @@
+{"family":"[]","activities":["Lewis.sevenTimer.EnterLocation","Lewis.sevenTimer.Main"],"services":[],"receivers":[],"iccg":[{"val0":"Lewis.sevenTimer.EnterLocation","val1":"Lewis.sevenTimer.EnterLocation"},{"val0":"Lewis.sevenTimer.Main","val1":"Lewis.sevenTimer.EnterLocation"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

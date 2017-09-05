@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.androidity.touchme.CreditsActivity","com.androidity.touchme.TouchMe","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.androidity.touchme.TouchMe","val1":"com.androidity.touchme.CreditsActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.blueedge.lpin.LicensePlateIndiaActivity","com.blueedge.lpin.LicensePlateIndiaAbout"],"services":[],"receivers":[],"iccg":[{"val0":"com.blueedge.lpin.LicensePlateIndiaActivity","val1":"com.blueedge.lpin.LicensePlateIndiaAbout"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gps.app.EmergencyCallSOS","com.gps.app.ShowPath","com.gps.app.AndroidMapper"],"services":[],"receivers":[],"iccg":[{"val0":"com.gps.app.EmergencyCallSOS","val1":"com.gps.app.AndroidMapper"},{"val0":"com.gps.app.AndroidMapper","val1":"com.gps.app.ShowPath"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

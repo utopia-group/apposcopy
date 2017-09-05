@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gau.go.launcherex.theme.bloom.Template"],"services":["com.gau.go.launcherex.theme.bloom.GoDownloadService"],"receivers":[],"iccg":[{"val0":"com.gau.go.launcherex.theme.bloom.GoDownloadService","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

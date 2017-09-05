@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gmail.tianjianyong.china.subway.SubwayActivity","com.gmail.tianjianyong.china.subway.StationActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.gmail.tianjianyong.china.subway.SubwayActivity","val1":"com.gmail.tianjianyong.china.subway.StationActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

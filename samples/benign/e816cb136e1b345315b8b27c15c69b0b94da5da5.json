@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.test.cus.ga.TestCustomGAActivity"],"services":[],"receivers":["com.test.cus.ga.ReferrerCatcher"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

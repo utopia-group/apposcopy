@@ -1,0 +1,1 @@
+{"family":"[]","activities":["net.andtext.DirectLink","net.andtext.AndText"],"services":[],"receivers":[],"iccg":[{"val0":"net.andtext.DirectLink","val1":"net.andtext.AndText"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

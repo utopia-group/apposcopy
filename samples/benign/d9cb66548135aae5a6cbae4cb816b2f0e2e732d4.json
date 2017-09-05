@@ -1,0 +1,1 @@
+{"family":"[]","activities":["games.joedodger.MainScreen","games.joedodger.NinjaMain","games.joedodger.AchievementsScreen"],"services":[],"receivers":[],"iccg":[{"val0":"games.joedodger.MainScreen","val1":"games.joedodger.NinjaMain"},{"val0":"games.joedodger.MainScreen","val1":"games.joedodger.AchievementsScreen"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

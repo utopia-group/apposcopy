@@ -1,0 +1,1 @@
+{"family":"[]","activities":["cn.dena.mobage.android.MobageActivity","mighty.mobile.MtStart"],"services":[],"receivers":[],"iccg":[{"val0":"cn.dena.mobage.android.MobageActivity","val1":"cn.dena.mobage.android.MobageActivity"},{"val0":"mighty.mobile.MtStart","val1":"cn.dena.mobage.android.MobageActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

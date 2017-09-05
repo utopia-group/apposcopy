@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gasdash3.PlayerSelection","com.gasdash3.Main"],"services":[],"receivers":[],"iccg":[{"val0":"com.gasdash3.PlayerSelection","val1":"com.gasdash3.Main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

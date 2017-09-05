@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.handy.tplay.SplashActivity","com.handy.tplay.And_TouchPlay"],"services":[],"receivers":[],"iccg":[{"val0":"com.handy.tplay.And_TouchPlay","val1":"com.handy.tplay.SplashActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

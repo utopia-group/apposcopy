@@ -1,0 +1,1 @@
+{"family":"[]","activities":["jp.sakurasoftwear.airplaneboot.Main"],"services":[],"receivers":["jp.sakurasoftwear.airplaneboot.Receiver"],"iccg":[],"intentFilters":[{"val0":"jp.sakurasoftwear.airplaneboot.Receiver","val1":"android.intent.action.BOOT_COMPLETED"}],"dangerAPIs":[],"taintFlows":[],"samples":[]}

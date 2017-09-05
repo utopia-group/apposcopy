@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.android.stevejobsquotes.QuotesList","com.android.stevejobsquotes.SteveJobsQuotes"],"services":[],"receivers":[],"iccg":[{"val0":"com.android.stevejobsquotes.SteveJobsQuotes","val1":"com.android.stevejobsquotes.QuotesList"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

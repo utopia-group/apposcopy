@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.a0soft.gphone.aDialCode.aDialCode","com.a0soft.gphone.aDialCode.FindCityForm"],"services":[],"receivers":[],"iccg":[{"val0":"com.a0soft.gphone.aDialCode.aDialCode","val1":"com.a0soft.gphone.aDialCode.FindCityForm"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

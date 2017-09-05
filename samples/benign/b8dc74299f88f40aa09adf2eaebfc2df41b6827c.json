@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.futonredemption.makemotivator.activities.MainActivity","com.google.ads.AdActivity"],"services":["org.beryl.media.RegisterMediaIntentService"],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

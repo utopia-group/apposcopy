@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.m.roomsearch.HelpView","com.m.roomsearch.MainActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.m.roomsearch.MainActivity","val1":"com.m.roomsearch.HelpView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

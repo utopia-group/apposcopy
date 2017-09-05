@@ -1,0 +1,1 @@
+{"family":"[]","activities":["OnValue.OnDongne.mainSite","OnValue.OnDongne.OnDongneActivity"],"services":[],"receivers":[],"iccg":[{"val0":"OnValue.OnDongne.OnDongneActivity","val1":"OnValue.OnDongne.mainSite"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

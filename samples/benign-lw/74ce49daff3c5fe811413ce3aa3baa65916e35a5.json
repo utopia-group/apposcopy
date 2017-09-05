@@ -1,0 +1,1 @@
+{"family":"[]","activities":["jp.keynan.crystal.OpenView","com.google.ads.AdActivity","jp.keynan.crystal.MyWallpaperSetting"],"services":["jp.keynan.crystal.MyWallpaperService"],"receivers":[],"iccg":[{"val0":"jp.keynan.crystal.OpenView","val1":"jp.keynan.crystal.OpenView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

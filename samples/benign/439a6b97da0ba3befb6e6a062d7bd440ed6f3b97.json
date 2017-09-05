@@ -1,0 +1,1 @@
+{"family":"[]","activities":["de.fungamer.headcookbook.layout.v10.ContentBrowserActivity","de.fungamer.headcookbook.MainActivity"],"services":[],"receivers":[],"iccg":[{"val0":"de.fungamer.headcookbook.MainActivity","val1":"de.fungamer.headcookbook.layout.v10.ContentBrowserActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

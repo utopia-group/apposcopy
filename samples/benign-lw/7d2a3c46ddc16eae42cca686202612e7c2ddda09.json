@@ -1,0 +1,1 @@
+{"family":"[]","activities":["tube.core.TubeStatusActivity","com.unrulymedia.droidwire.DroidwireVideoActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"tube.core.TubeStatusActivity","val1":"\u003cjava.lang.ClassLoader: java.lang.Class loadClass(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

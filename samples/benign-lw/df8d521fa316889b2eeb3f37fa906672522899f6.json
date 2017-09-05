@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.wp.PXRitter1.PXRitter1"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.PXRitter1.PXRitter1","val1":"com.google.ads.AdActivity"},{"val0":"com.wp.PXRitter1.PXRitter1","val1":"com.wp.PXRitter1.PXRitter1"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

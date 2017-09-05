@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":["com.eplas.dayquote_en.DayQuote$UpdateService"],"receivers":["com.eplas.dayquote_en.DayQuote"],"iccg":[{"val0":"com.eplas.dayquote_en.DayQuote","val1":"com.eplas.dayquote_en.DayQuote$UpdateService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

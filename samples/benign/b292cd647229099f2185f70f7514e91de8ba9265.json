@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.drawsolver.Suggestions","com.drawsolver.DrawSolverFree"],"services":[],"receivers":[],"iccg":[{"val0":"com.drawsolver.DrawSolverFree","val1":"com.drawsolver.Suggestions"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

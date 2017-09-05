@@ -1,0 +1,1 @@
+{"family":"[]","activities":["smpxg.feeding_lite.main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"smpxg.feeding_lite.main","val1":"$getDeviceId","val2":"smpxg.feeding_lite.main","val3":"!INTERNET"},{"val0":"smpxg.feeding_lite.main","val1":"$MyTime","val2":"smpxg.feeding_lite.main","val3":"!INTERNET"}],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["leesh.AndroidRuler.MmRuler","leesh.AndroidRuler.InchRuler"],"services":[],"receivers":[],"iccg":[{"val0":"leesh.AndroidRuler.MmRuler","val1":"leesh.AndroidRuler.InchRuler"},{"val0":"leesh.AndroidRuler.InchRuler","val1":"leesh.AndroidRuler.MmRuler"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

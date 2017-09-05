@@ -1,0 +1,1 @@
+{"family":"[]","activities":["Js.Uspr.Uspr","Js.Uspr.SubResult","Js.Uspr.Result","Js.Uspr.TranslateResult"],"services":[],"receivers":[],"iccg":[{"val0":"Js.Uspr.Uspr","val1":"Js.Uspr.Result"},{"val0":"Js.Uspr.SubResult","val1":"Js.Uspr.TranslateResult"},{"val0":"Js.Uspr.Result","val1":"Js.Uspr.SubResult"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

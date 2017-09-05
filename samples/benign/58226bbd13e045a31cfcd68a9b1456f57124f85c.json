@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.radu.Main","org.radu.Call","org.radu.OrasV"],"services":[],"receivers":[],"iccg":[{"val0":"org.radu.Main","val1":"org.radu.OrasV"},{"val0":"org.radu.OrasV","val1":"org.radu.Call"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

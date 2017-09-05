@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.fredecicapps.naruto.Wallpaper","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.fredecicapps.naruto.Wallpaper","val1":"\u003candroid.app.WallpaperManager: void setBitmap(android.graphics.Bitmap)\u003e"}],"taintFlows":[],"samples":[]}

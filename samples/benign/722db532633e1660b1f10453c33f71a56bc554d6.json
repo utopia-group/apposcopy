@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.thoughttalk.Settings","com.thoughttalk.MainActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.thoughttalk.MainActivity","val1":"com.thoughttalk.Settings"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

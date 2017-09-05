@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.nfl.fantasy.InitNFLFantasy","com.nfl.fantasy.Settings","com.nfl.fantasy.MainMenu"],"services":[],"receivers":[],"iccg":[{"val0":"com.nfl.fantasy.InitNFLFantasy","val1":"com.nfl.fantasy.MainMenu"},{"val0":"com.nfl.fantasy.MainMenu","val1":"com.nfl.fantasy.Settings"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

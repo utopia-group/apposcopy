@@ -1,0 +1,1 @@
+{"family":"[]","activities":["blocks.gphone.main.MainActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"blocks.gphone.main.MainActivity","val1":"$MODEL","val2":"blocks.gphone.main.MainActivity","val3":"!INTERNET"}],"samples":[]}

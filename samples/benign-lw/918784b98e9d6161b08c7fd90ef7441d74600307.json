@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.walmartcanadaneeded.WView","com.walmartcanadaneeded.Start"],"services":[],"receivers":["com.google.ads.InstallReceiver"],"iccg":[{"val0":"com.walmartcanadaneeded.Start","val1":"com.walmartcanadaneeded.WView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

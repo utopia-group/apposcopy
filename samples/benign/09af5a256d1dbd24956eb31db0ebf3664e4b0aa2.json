@@ -1,0 +1,1 @@
+{"family":"[]","activities":["requio.com_messier.widget.main"],"services":["requio.com_messier.widget.widget"],"receivers":["requio.com_messier.widget.widget$widget_BR"],"iccg":[{"val0":"requio.com_messier.widget.widget$widget_BR","val1":"requio.com_messier.widget.widget"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["pl.krzysiek.afc.iqt.Result","pl.krzysiek.afc.iqt.Main","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"pl.krzysiek.afc.iqt.Main","val1":"pl.krzysiek.afc.iqt.Result"},{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["brightai.keepyup.KeepyUp"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"brightai.keepyup.KeepyUp","val1":"$getSubscriberId","val2":"brightai.keepyup.KeepyUp","val3":"!INTERNET"}],"samples":[]}

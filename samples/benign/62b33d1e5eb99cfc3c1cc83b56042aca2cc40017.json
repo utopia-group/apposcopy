@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mk.episodecalendar.activities.Login","com.mk.episodecalendar.activities.EpisodeFeed"],"services":[],"receivers":[],"iccg":[{"val0":"com.mk.episodecalendar.activities.EpisodeFeed","val1":"com.mk.episodecalendar.activities.Login"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

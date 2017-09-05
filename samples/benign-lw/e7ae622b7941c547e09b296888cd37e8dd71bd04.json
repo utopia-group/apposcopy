@@ -1,0 +1,1 @@
+{"family":"[]","activities":["softkos.bie.MainActivity","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"softkos.bie.MainActivity","val1":"softkos.bie.MainActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

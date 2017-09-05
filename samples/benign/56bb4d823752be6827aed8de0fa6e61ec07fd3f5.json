@@ -1,0 +1,1 @@
+{"family":"[]","activities":["src.GoFaa.AboutPage","src.GoFaa.GoFaa","src.GoFaa.ExamplePage","src.GoFaa.GoFaaResults"],"services":[],"receivers":[],"iccg":[{"val0":"src.GoFaa.GoFaa","val1":"src.GoFaa.GoFaaResults"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

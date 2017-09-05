@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.feasy.app.memory.ChocolateTimeP2.Applause","com.feasy.app.memory.ChocolateTimeP2.OptionActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.feasy.app.memory.ChocolateTimeP2.Applause","val1":"com.feasy.app.memory.ChocolateTimeP2.OptionActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.QwarkPhoneDev.SplashScreen","com.QwarkPhoneDev.Tab1","com.QwarkPhoneDev.QikTag"],"services":[],"receivers":[],"iccg":[{"val0":"com.QwarkPhoneDev.QikTag","val1":"com.QwarkPhoneDev.Tab1"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wp.Pincel3D.Pincel3D","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.Pincel3D.Pincel3D","val1":"com.wp.Pincel3D.Pincel3D"},{"val0":"com.wp.Pincel3D.Pincel3D","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.tapum.app.lotto.prediction.pb.PBPredictionActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.tapum.app.lotto.prediction.pb.PBPredictionActivity","val1":"$getLine1Number","val2":"com.tapum.app.lotto.prediction.pb.PBPredictionActivity","val3":"!INTERNET"}]}

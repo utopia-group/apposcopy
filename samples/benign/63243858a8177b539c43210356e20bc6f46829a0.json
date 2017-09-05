@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.utility.recall.RecallMenu"],"services":["com.utility.recall.RecallService"],"receivers":[],"iccg":[{"val0":"com.utility.recall.RecallService","val1":"com.utility.recall.RecallMenu"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

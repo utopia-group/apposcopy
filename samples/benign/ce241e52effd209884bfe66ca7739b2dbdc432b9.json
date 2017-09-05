@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.afjk01.game.RollMaze3D.RollMaze3DActivity","com.afjk01.game.RollMaze3D.SettingActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.afjk01.game.RollMaze3D.RollMaze3DActivity","val1":"com.afjk01.game.RollMaze3D.SettingActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

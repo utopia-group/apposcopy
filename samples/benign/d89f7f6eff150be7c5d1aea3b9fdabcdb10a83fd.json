@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.stoti.info.bulbact.screen2","com.google.ads.AdActivity","com.stoti.info.bulbact.screen"],"services":[],"receivers":[],"iccg":[{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"},{"val0":"com.stoti.info.bulbact.screen","val1":"com.stoti.info.bulbact.screen2"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

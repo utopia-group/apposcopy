@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.dimiter.CalculatorActivity","com.dimiter.Help"],"services":[],"receivers":[],"iccg":[{"val0":"com.dimiter.CalculatorActivity","val1":"com.dimiter.CalculatorActivity"},{"val0":"com.dimiter.CalculatorActivity","val1":"com.dimiter.Help"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.gix.startrek.screenshots.MScreenshotsActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.gix.startrek.screenshots.MScreenshotsActivity","val1":"\u003candroid.app.WallpaperManager: void setBitmap(android.graphics.Bitmap)\u003e"}],"taintFlows":[],"samples":[]}

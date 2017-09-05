@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.inspiredandroid.lastfmlivewallpaper.LiveWallpaperSettings","com.google.ads.AdActivity"],"services":["com.inspiredandroid.lastfmlivewallpaper.LiveWallpaper"],"receivers":[],"iccg":[{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

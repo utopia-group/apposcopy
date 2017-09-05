@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.wp.DevilMayCry1.DevilMayCry1"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.DevilMayCry1.DevilMayCry1","val1":"com.google.ads.AdActivity"},{"val0":"com.wp.DevilMayCry1.DevilMayCry1","val1":"com.wp.DevilMayCry1.DevilMayCry1"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

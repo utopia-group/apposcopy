@@ -1,0 +1,1 @@
+{"family":"[]","activities":["and.anti.Main"],"services":["and.anti.Scan"],"receivers":[],"iccg":[{"val0":"and.anti.Main","val1":"and.anti.Scan"},{"val0":"and.anti.Scan","val1":"and.anti.Scan"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

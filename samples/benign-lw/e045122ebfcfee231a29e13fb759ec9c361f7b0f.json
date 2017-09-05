@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.wp.MizushimaHiro.MizushimaHiro"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.MizushimaHiro.MizushimaHiro","val1":"com.google.ads.AdActivity"},{"val0":"com.wp.MizushimaHiro.MizushimaHiro","val1":"com.wp.MizushimaHiro.MizushimaHiro"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.lifestreet.android.TestInstallationIntent.TestInstallationIntentActivity"],"services":[],"receivers":["com.lifestreet.android.TestInstallationIntent.conversion.InstallReceiver"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ksimons.flipbook.popup_title_rotate","com.ksimons.flipbook.FlipBookActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.ksimons.flipbook.FlipBookActivity","val1":"com.ksimons.flipbook.popup_title_rotate"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

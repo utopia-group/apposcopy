@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.bakhtiyor.android.countmein.CountMeInActivity"],"services":["com.bakhtiyor.android.countmein.CountMeInService"],"receivers":["com.bakhtiyor.android.countmein.CountMeInWidget"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

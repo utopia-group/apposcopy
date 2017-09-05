@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.brainworks.contacts.ui.Search","com.brainworks.contacts.ui.Main"],"services":[],"receivers":[],"iccg":[{"val0":"com.brainworks.contacts.ui.Search","val1":"com.brainworks.contacts.ui.Search"},{"val0":"com.brainworks.contacts.ui.Search","val1":"com.brainworks.contacts.ui.Main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

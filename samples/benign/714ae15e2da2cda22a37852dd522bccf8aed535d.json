@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.rp.cuantomeme.AboutActivity","com.rp.cuantomeme.MainFragmentActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.rp.cuantomeme.MainFragmentActivity","val1":"com.rp.cuantomeme.AboutActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

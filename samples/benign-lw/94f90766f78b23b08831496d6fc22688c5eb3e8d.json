@@ -1,0 +1,1 @@
+{"family":"[]","activities":["j2e.test.Main","j2e.test.Questions"],"services":[],"receivers":[],"iccg":[{"val0":"j2e.test.Main","val1":"j2e.test.Main"},{"val0":"j2e.test.Main","val1":"j2e.test.Questions"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

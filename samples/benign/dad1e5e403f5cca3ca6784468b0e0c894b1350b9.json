@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.yournet.AndroidLife.BrowserActivity","com.yournet.AndroidLife.SplashActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.yournet.AndroidLife.SplashActivity","val1":"com.yournet.AndroidLife.BrowserActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

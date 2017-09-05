@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mobclix.android.sdk.MobclixBrowserActivity","com.ethereum.moonphase.free.MoonCalendarActivity","com.google.ads.AdActivity"],"services":[],"receivers":["com.ethereum.moonphase.free.MoonWidget"],"iccg":[{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["Com.Smauglys.MeteoLT.MainActivity","Com.Smauglys.MeteoLT.SettingsActivity"],"services":[],"receivers":[],"iccg":[{"val0":"Com.Smauglys.MeteoLT.MainActivity","val1":"Com.Smauglys.MeteoLT.SettingsActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

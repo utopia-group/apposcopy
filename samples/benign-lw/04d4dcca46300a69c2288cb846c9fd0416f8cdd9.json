@@ -1,0 +1,1 @@
+{"family":"[]","activities":["smart.games.android.widget.Browser","smart.games.android.widget.Smart"],"services":[],"receivers":[],"iccg":[{"val0":"smart.games.android.widget.Smart","val1":"smart.games.android.widget.Browser"},{"val0":"smart.games.android.widget.Smart","val1":"smart.games.android.widget.Smart"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

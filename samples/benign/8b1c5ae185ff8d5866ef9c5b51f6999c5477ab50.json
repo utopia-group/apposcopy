@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.dahl.brendan.calllog.PerferencesActivity"],"services":[],"receivers":["com.dahl.brendan.calllog.PhoneIntentReceiver"],"iccg":[],"intentFilters":[{"val0":"com.dahl.brendan.calllog.PhoneIntentReceiver","val1":"android.intent.action.PHONE_STATE"}],"dangerAPIs":[],"taintFlows":[]}

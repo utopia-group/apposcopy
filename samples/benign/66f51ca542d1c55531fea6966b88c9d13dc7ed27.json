@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ishihata_tech.android.mj2.MJIApp"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.ishihata_tech.android.mj2.MJIApp","val1":"$MODEL","val2":"com.ishihata_tech.android.mj2.MJIApp","val3":"!INTERNET"}]}

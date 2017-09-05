@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.chicago.party.mix.SRRadioActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.chicago.party.mix.SRRadioActivity","val1":"$MyDate","val2":"com.chicago.party.mix.SRRadioActivity","val3":"!INTERNET"}],"samples":[]}

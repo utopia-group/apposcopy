@@ -1,0 +1,1 @@
+{"family":"[]","activities":["ca.rmen.nounours.NounoursActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"ca.rmen.nounours.NounoursActivity","val1":"$File","val2":"ca.rmen.nounours.NounoursActivity","val3":"!INTERNET"}]}

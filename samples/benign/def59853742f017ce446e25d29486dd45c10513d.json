@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.rbonestell.sns.Welcome","com.rbonestell.sns.Main"],"services":[],"receivers":[],"iccg":[{"val0":"com.rbonestell.sns.Main","val1":"com.rbonestell.sns.Welcome"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

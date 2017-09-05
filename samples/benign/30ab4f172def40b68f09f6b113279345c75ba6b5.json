@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.game.chip.Movement","com.game.chip.game","com.game.chip.Splash"],"services":[],"receivers":[],"iccg":[{"val0":"com.game.chip.Splash","val1":"com.game.chip.Movement"},{"val0":"com.game.chip.Splash","val1":"com.game.chip.game"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

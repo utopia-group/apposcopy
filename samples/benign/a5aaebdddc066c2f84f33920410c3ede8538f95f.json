@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.cs4911.LogIn","com.cs4911.MainActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.cs4911.LogIn","val1":"com.cs4911.MainActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

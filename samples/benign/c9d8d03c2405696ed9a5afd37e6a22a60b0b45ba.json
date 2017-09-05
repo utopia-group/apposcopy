@@ -1,0 +1,1 @@
+{"family":"[]","activities":["de.starfm.android.SFMPlayer"],"services":["de.starfm.android.SFMService"],"receivers":[],"iccg":[{"val0":"de.starfm.android.SFMPlayer","val1":"de.starfm.android.SFMService"},{"val0":"de.starfm.android.SFMService","val1":"de.starfm.android.SFMPlayer"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

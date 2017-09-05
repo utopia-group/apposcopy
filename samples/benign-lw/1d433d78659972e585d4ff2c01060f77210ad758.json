@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mv.girls.showActivity","com.mv.girls.mainactivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.mv.girls.mainactivity","val1":"com.mv.girls.showActivity"},{"val0":"com.mv.girls.mainactivity","val1":"com.mv.girls.mainactivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

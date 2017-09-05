@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ap.MemoryForLemmings.MemoryForLemmings"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.ap.MemoryForLemmings.MemoryForLemmings","val1":"\u003cjava.lang.Runtime: java.lang.Process exec(java.lang.String)\u003e"}],"taintFlows":[]}

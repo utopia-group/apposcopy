@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.csipsimple.plugins.betamax.CallHandlerConfig"],"services":[],"receivers":["com.csipsimple.plugins.betamax.CallHandlerWeb","com.csipsimple.plugins.betamax.CallHandlerAccessNumber"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

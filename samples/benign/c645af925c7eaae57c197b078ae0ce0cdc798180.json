@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.declansoftware.wordofthedaykorean.main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.declansoftware.wordofthedaykorean.main","val1":"$getDeviceId","val2":"com.declansoftware.wordofthedaykorean.main","val3":"!INTERNET"}]}

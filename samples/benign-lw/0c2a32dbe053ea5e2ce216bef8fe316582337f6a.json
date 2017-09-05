@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.acicigobang.MainActivity","com.acicigobang.ui.GoBangWinActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.acicigobang.MainActivity","val1":"com.acicigobang.MainActivity"},{"val0":"com.acicigobang.MainActivity","val1":"com.acicigobang.ui.GoBangWinActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

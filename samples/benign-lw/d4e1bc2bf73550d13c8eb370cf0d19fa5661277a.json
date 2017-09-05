@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.asuko1001.splash","com.asuko1001.main"],"services":[],"receivers":[],"iccg":[{"val0":"com.asuko1001.main","val1":"com.asuko1001.splash"},{"val0":"com.asuko1001.main","val1":"com.asuko1001.main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

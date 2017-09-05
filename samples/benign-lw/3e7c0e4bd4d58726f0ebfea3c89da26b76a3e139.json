@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.flopcode.android.networkbrowser.rfbtcp.RfbAdapter"],"services":[],"receivers":[],"iccg":[{"val0":"com.flopcode.android.networkbrowser.rfbtcp.RfbAdapter","val1":"com.flopcode.android.networkbrowser.rfbtcp.RfbAdapter"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

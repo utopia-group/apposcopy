@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gau.go.launcherex.theme.imissu.Template"],"services":["com.gau.go.launcherex.theme.imissu.GoDownloadService"],"receivers":[],"iccg":[{"val0":"com.gau.go.launcherex.theme.imissu.GoDownloadService","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

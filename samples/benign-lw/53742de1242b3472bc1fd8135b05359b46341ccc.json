@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","jg.works.pets.PetsActivity"],"services":[],"receivers":["jg.works.pets.music.MusicBroadReciever"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

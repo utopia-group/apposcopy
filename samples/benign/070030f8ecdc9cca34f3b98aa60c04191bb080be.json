@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.driveexamin.ViewSingleExamin","com.driveexamin.DriveExamin","com.driveexamin.SelChapt"],"services":[],"receivers":[],"iccg":[{"val0":"com.driveexamin.DriveExamin","val1":"com.driveexamin.ViewSingleExamin"},{"val0":"com.driveexamin.DriveExamin","val1":"com.driveexamin.SelChapt"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

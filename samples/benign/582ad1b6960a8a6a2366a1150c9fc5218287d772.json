@@ -1,0 +1,1 @@
+{"family":"[]","activities":["ru.ivansuper.falling_snow.FallingSnowActivity"],"services":["ru.ivansuper.falling_snow.SnowService"],"receivers":[],"iccg":[{"val0":"ru.ivansuper.falling_snow.FallingSnowActivity","val1":"ru.ivansuper.falling_snow.SnowService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

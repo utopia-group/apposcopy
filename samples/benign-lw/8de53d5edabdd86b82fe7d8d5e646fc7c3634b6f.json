@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.minmoba.geinou.GeinouNews","com.minmoba.geinou.AboutActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.minmoba.geinou.GeinouNews","val1":"com.minmoba.geinou.GeinouNews"},{"val0":"com.minmoba.geinou.GeinouNews","val1":"com.minmoba.geinou.AboutActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

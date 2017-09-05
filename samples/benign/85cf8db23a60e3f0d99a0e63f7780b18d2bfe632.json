@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.lonelycatgames.TextViewer","com.lonelycatgames.Xplore.ImageViewer","com.lonelycatgames.Xplore.Xplore"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.lonelycatgames.TextViewer","val1":"$File","val2":"com.lonelycatgames.TextViewer","val3":"!WebView"}]}

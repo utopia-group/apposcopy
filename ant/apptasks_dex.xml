@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="STAMP-Apk">
+
+  <target name="-prepare-backend-chord">
+    <!-- Register backend-specific analyses. -->
+    <property name="stamp.analyses.main"
+	      value="typefilter-dlog,pt-dlog,taint-lim-dlog"/>
+    <!-- Register backend-specific system properties (none required for this
+         backend). -->
+    <propertyset id="stamp.analyses.main.sysprops"/>
+  </target>
+
+
+  <target name="-analyze-apk">
+	<!-- Run android-apktool to decompile the manifest and resource xml files -->
+	<java classname="brut.apktool.Main"
+		  maxmemory="${stamp.maxheap}"
+		  fork="true"
+		  failonerror="true">
+	  <jvmarg value="-ea"/>
+	  <classpath>
+		<pathelement location="${stamp.dir}/lib/apktool-cli-1.5.3-SNAPSHOT.jar"/>
+      </classpath>
+	  <arg value="d"/>
+      <arg value="-f"/>
+	  <arg value="--frame-path"/>
+	  <arg value="${stamp.dir}"/>
+	  <arg value="-s"/>
+	  <arg value="${apk}"/>
+	  <arg value="${stamp.out.dir}/apktool-out"/>
+	</java>
+
+    <!-- Generate harness. -->
+    <java classname="stamp.harnessgen.Main"
+	  maxmemory="${stamp.maxheap}"
+	  fork="true"
+	  failonerror="true">
+      <jvmarg value="-ea"/>
+      <classpath>
+		<pathelement location="${stamp.dir}/bin/stamp.main.jar"/>
+		<!--pathelement location="${stamp.dir}/lib/AXMLPrinter2.jar"/-->
+		<pathelement location="${stamp.dir}/lib/apktool-cli-1.5.3-SNAPSHOT.jar"/>
+		<pathelement location="${stamp.dir}/lib/soot.jar"/>
+      </classpath>
+      <arg value="${driver.dir}"/>
+      <arg value="${apk}"/>
+	  <arg value="${stamp.dir}/bin/api-${apilevel}/stamp.android.jar"/>
+	  <arg value="${stamp.out.dir}/apktool-out"/>
+    </java>
+
+    <!-- Read required properties. -->
+    <prop-default property="stamp.backend" default="chord"
+				  description="backend to use for analyzing the app [chord,solvergen]"/>
+    <require-prop property="stamp.analyses.pre"
+		  description="Chord analyses that will set up the initial facts for later stages"/>
+    <require-prop property="stamp.analyses.post"
+		  description="Chord analyses that will prepare the output relations"/>
+    <prop-default property="stamp.printrels" default=""
+		  description="relations to print out after the analysis finishes"/>
+    <prop-default property="stamp.print.allclasses" default="true"
+		  description="whether to dump out all processed jimple files"/>
+	<prop-default property="stamp.timeout" default="86400000"
+              description="time out"/>
+
+    <!-- Prepare the selected analysis backend. -->
+    <runtarget target="-prepare-backend-${stamp.backend}"/>
+    <require-prop property="stamp.analyses.main"
+		  description="backend-specific analyses to run -- should be declared in -prepare-backend-[backend]"/>
+    <require-ref refid="stamp.analyses.main.sysprops"
+		 description="backend-specific system properties to pass to Chord -- should be declared in -prepare-backend-[backend]"/>
+
+    <!-- Configure remaining Chord settings. -->
+    <property name="stamp.analyses"
+	      value="${stamp.analyses.pre},${stamp.analyses.main},${stamp.analyses.post}"/>
+
+    <!-- Conditionally set-up DroidRecord properties -->
+    <if>
+      <isset property="stamp.droidrecord.logfile.template"/>
+      <then/>
+      <else>
+        <property name="stamp.droidrecord.logfile.template" value=""/>
+      </else>
+    </if>
+    <if>
+      <isset property="stamp.droidrecord.logfile.bin"/>
+      <then/>
+      <else>
+        <property name="stamp.droidrecord.logfile.bin" value=""/>
+      </else>
+    </if>
+
+    <!-- Run Chord. -->
+    <java classname="shord.project.Boot" fork="true" failonerror="true">
+      <jvmarg value="-ea"/>
+      <sysproperty key="chord.work.dir" file="${stamp.out.dir}"/>
+      <sysproperty key="chord.main.class" value="edu.stanford.stamp.harness.Main"/>
+      <sysproperty key="chord.class.path" path="${apk}:${driver.dir}"/>
+      <sysproperty key="chord.std.java.analysis.path" path="${stamp.dir}/bin/stamp.main.jar:${stamp.dir}/scanner/stamp.scanner.jar:${stamp.dir}/apposcopy.jar"/>
+      <sysproperty key="chord.std.dlog.analysis.path" path="${stamp.dir}/bin/stamp.main.jar:${stamp.dir}/apposcopy.jar"/>
+      <sysproperty key="chord.run.analyses" value="${stamp.analyses}"/>
+	  <sysproperty key="stamp.scope.excludefile" value="${stamp.dir}/exclude.txt"/>
+      <sysproperty key="chord.std.scope.exclude" value=""/>
+      <sysproperty key="chord.ext.scope.exclude" value=""/>
+      <sysproperty key="chord.std.check.exclude" value=""/>
+      <sysproperty key="chord.ext.check.exclude" value=""/>
+      <sysproperty key="chord.verbose" value="${chord.verbose}"/>
+      <sysproperty key="chord.print.rels" value="${stamp.printrels}"/>
+      <sysproperty key="chord.max.heap" value="${chord.max.heap}"/>
+      <sysproperty key="chord.bddbddb.max.heap" value="${chord.bddbddb.max.heap}"/>
+      <sysproperty key="stamp.dir" value="${stamp.dir}"/>
+      <sysproperty key="stamp.out.dir" value="${stamp.out.dir}"/>
+	  <sysproperty key="stamp.input.type" value="${stamp.input.type}"/>
+	  <sysproperty key="stamp.android.jar" value="${stamp.dir}/bin/api-${apilevel}/stamp.android.jar"/>
+	  <sysproperty key="stamp.framework.dir" value="${stamp.dir}/models/api-${apilevel}"/>
+	  <sysproperty key="stamp.icdf" value="${stamp.icdf}"/>
+	  <sysproperty key="stamp.app" value="${app}"/>
+      <sysproperty key="stamp.droidrecord.logfile.template" value="${stamp.droidrecord.logfile.template}"/>
+      <sysproperty key="stamp.droidrecord.logfile.bin" value="${stamp.droidrecord.logfile.bin}"/>
+	  <sysproperty key="stamp.print.allclasses" value="${stamp.print.allclasses}"/>
+      <syspropertyset refid="stamp.analyses.main.sysprops"/>
+	  <sysproperty key="stamp.timeout" value="${stamp.timeout}"/>
+      <classpath>
+		<pathelement location="${stamp.dir}/bin/stamp.main.jar"/>
+		<pathelement location="${stamp.dir}/lib/soot.jar"/>
+		<!--pathelement location="/local/mysoot/soot-github/lib/soot-develop.jar"/-->
+		<pathelement location="${stamp.dir}/lib/commons-lang3-3.1.jar"/>
+		<pathelement location="${stamp.dir}/lib/stamp.chord.jar"/>
+        <pathelement location="${stamp.dir}/lib/automaton.jar"/>
+    	<pathelement location="${stamp.dir}/lib/droidrecord_reader.jar"/>
+		<pathelement location="${stamp.dir}/lib/sqlite-jdbc-3.7.2.jar"/>
+        <pathelement location="${stamp.dir}/lib/gson-2.3.1.jar"/>
+      </classpath>
+    </java>
+
+	<!-- run the postprocessing python script-->
+	<exec executable="python" failonerror="true">
+	  <arg value="${stamp.dir}/scripts/buildReportDB.py"/>
+	  <arg value="-c"/>
+	  <arg value="${stamp.dir}/scripts/srcClass.xml"/>
+	  <arg value="-k"/>
+	  <arg value="${stamp.dir}/scripts/sinkClass.xml"/>
+	  <arg value="-r"/>
+	  <arg value="${stamp.out.dir}/results"/>
+	  <arg value="-o"/>
+	  <arg value="${stamp.dir}/stamp_output"/>
+	</exec>
+
+  </target>
+
+</project>

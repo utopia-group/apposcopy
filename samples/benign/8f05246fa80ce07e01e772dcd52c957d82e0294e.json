@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.digitallizard.nicecompass.HelpActivity","com.digitallizard.nicecompass.CompassActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.digitallizard.nicecompass.CompassActivity","val1":"com.digitallizard.nicecompass.HelpActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

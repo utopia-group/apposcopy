@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ircddb.rptr.Rptr"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.ircddb.rptr.Rptr","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

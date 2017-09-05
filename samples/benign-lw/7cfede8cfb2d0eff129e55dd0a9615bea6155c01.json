@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","personal.jhjeong.app.WiFiPicker.SSIDSelector"],"services":[],"receivers":["personal.jhjeong.app.WiFiPicker.NetStatusReceiver"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

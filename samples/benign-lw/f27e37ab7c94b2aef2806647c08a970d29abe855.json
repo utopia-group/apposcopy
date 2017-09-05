@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wp.pxArt.pxArt","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.pxArt.pxArt","val1":"com.wp.pxArt.pxArt"},{"val0":"com.wp.pxArt.pxArt","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["nextgal.naronroda.Main","nextgal.naronroda.SplashScreen"],"services":[],"receivers":[],"iccg":[{"val0":"nextgal.naronroda.SplashScreen","val1":"nextgal.naronroda.Main"},{"val0":"nextgal.naronroda.SplashScreen","val1":"nextgal.naronroda.SplashScreen"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

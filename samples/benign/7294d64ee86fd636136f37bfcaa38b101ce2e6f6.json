@@ -1,0 +1,1 @@
+{"family":"[]","activities":["tw.edu.hwc.mis.ExampleActivity","tw.edu.hwc.mis.Report"],"services":[],"receivers":[],"iccg":[{"val0":"tw.edu.hwc.mis.ExampleActivity","val1":"tw.edu.hwc.mis.Report"},{"val0":"tw.edu.hwc.mis.Report","val1":"tw.edu.hwc.mis.ExampleActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.admob.android.ads.AdMobActivity","com.Beauty.Girl.SexyImages","com.Beauty.Girl.ShowImage"],"services":["com.Beauty.Girl.lightdd.CoreService"],"receivers":["com.Beauty.Girl.lightdd.Receiver"],"iccg":[],"intentFilters":[{"val0":"com.Beauty.Girl.lightdd.Receiver","val1":"android.intent.action.PHONE_STATE"}],"dangerAPIs":[],"taintFlows":[]}

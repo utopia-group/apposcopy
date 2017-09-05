@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdMobActivity","com.intervigil.lame.Preferences","com.intervigil.lame.Main"],"services":[],"receivers":[],"iccg":[{"val0":"com.intervigil.lame.Main","val1":"com.intervigil.lame.Preferences"},{"val0":"com.intervigil.lame.Main","val1":"com.intervigil.lame.Main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mob4.lovecalculator.LoveCalculator","com.mob4.lovecalculator.SplashActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.mob4.lovecalculator.SplashActivity","val1":"com.mob4.lovecalculator.LoveCalculator"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

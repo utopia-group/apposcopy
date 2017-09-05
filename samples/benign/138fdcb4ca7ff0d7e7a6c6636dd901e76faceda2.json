@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gau.go.launcherex.theme.colorfulLight.Template"],"services":["com.gau.go.launcherex.theme.colorfulLight.GoDownloadService"],"receivers":[],"iccg":[{"val0":"com.gau.go.launcherex.theme.colorfulLight.GoDownloadService","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

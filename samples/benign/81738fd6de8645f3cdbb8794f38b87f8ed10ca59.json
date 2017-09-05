@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.jacklrb.android.soundboard.dogs.SubSoundboard","com.jacklrb.android.soundboard.dogs.Sounboard"],"services":[],"receivers":[],"iccg":[{"val0":"com.jacklrb.android.soundboard.dogs.Sounboard","val1":"com.jacklrb.android.soundboard.dogs.SubSoundboard"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

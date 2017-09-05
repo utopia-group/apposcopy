@@ -1,0 +1,1 @@
+{"family":"[]","activities":["lazy.book.english.Read","lazy.book.english.MainList"],"services":[],"receivers":[],"iccg":[{"val0":"lazy.book.english.MainList","val1":"lazy.book.english.Read"},{"val0":"lazy.book.english.MainList","val1":"lazy.book.english.MainList"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

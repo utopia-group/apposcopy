@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","uk.co.androidia.games.FirestarterLite.Firestarter"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"uk.co.androidia.games.FirestarterLite.Firestarter","val1":"$MyTime","val2":"uk.co.androidia.games.FirestarterLite.Firestarter","val3":"!INTERNET"}],"samples":[]}

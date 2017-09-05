@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.kostmo.widget.sfx.PreferenceActivityInitialConfiguration"],"services":["com.kostmo.widget.sfx.ServiceSfxPlayer"],"receivers":["com.kostmo.widget.sfx.WidgetSfx"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

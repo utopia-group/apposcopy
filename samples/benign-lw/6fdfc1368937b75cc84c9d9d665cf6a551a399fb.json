@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.hsp.map.main","com.hsp.map.map"],"services":[],"receivers":[],"iccg":[{"val0":"com.hsp.map.main","val1":"com.hsp.map.main"},{"val0":"com.hsp.map.main","val1":"com.hsp.map.map"},{"val0":"com.hsp.map.map","val1":"com.hsp.map.main"},{"val0":"com.hsp.map.map","val1":"com.hsp.map.map"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

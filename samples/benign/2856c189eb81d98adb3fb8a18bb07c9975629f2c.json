@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.amir.ebay.MainActivity","com.amir.ebay.FiltersActivity","com.amir.ebay.ShowDetails"],"services":[],"receivers":[],"iccg":[{"val0":"com.amir.ebay.MainActivity","val1":"com.amir.ebay.FiltersActivity"},{"val0":"com.amir.ebay.MainActivity","val1":"com.amir.ebay.ShowDetails"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.Web.web2","com.Web.Web"],"services":[],"receivers":[],"iccg":[{"val0":"com.Web.Web","val1":"com.Web.web2"},{"val0":"com.Web.Web","val1":"com.Web.Web"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":[],"receivers":["red.extension.SMSWidget.SMSWidgetProvider"],"iccg":[],"intentFilters":[{"val0":"red.extension.SMSWidget.SMSWidgetProvider","val1":"android.provider.Telephony.SMS_RECEIVED"}],"dangerAPIs":[],"taintFlows":[]}

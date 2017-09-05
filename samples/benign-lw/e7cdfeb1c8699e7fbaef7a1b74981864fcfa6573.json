@@ -1,0 +1,1 @@
+{"family":"[]","activities":["no.appono.TaxiFaresFREE.TaxiFaresActivity","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[{"val0":"no.appono.TaxiFaresFREE.TaxiFaresActivity","val1":"android.net.conn.CONNECTIVITY_CHANGE"}],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.itc.wiflicontrol.StartActivity","com.itc.wiflicontrol.PlaneControlActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.itc.wiflicontrol.StartActivity","val1":"com.itc.wiflicontrol.PlaneControlActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

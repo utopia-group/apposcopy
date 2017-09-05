@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.pocketchunk.sosPVZE62.first"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.pocketchunk.sosPVZE62.first","val1":"$File","val2":"com.pocketchunk.sosPVZE62.first","val3":"!FILE"}]}

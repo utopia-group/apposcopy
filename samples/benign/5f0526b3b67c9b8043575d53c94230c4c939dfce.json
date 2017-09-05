@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mibollma.zilchR2.EnterNames","com.mibollma.zilchR2.Main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.mibollma.zilchR2.Main","val1":"$MODEL","val2":"com.mibollma.zilchR2.Main","val3":"!INTERNET"}]}

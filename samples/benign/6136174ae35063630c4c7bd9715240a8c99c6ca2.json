@@ -1,0 +1,1 @@
+{"family":"[]","activities":["sk.TenPlaces.GalleryActivity","sk.TenPlaces.TenPlacesView"],"services":[],"receivers":[],"iccg":[{"val0":"sk.TenPlaces.TenPlacesView","val1":"sk.TenPlaces.GalleryActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["sk.jecim.meskanievlaku.OblubeneVlakyActivity","sk.jecim.meskanievlaku.MeskanieVlakuActivity"],"services":[],"receivers":[],"iccg":[{"val0":"sk.jecim.meskanievlaku.MeskanieVlakuActivity","val1":"sk.jecim.meskanievlaku.OblubeneVlakyActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

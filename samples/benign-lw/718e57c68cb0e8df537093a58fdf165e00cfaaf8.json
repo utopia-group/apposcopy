@@ -1,0 +1,1 @@
+{"family":"[]","activities":["fi.tronfree.Game","fi.tronfree.MainMenu"],"services":[],"receivers":[],"iccg":[{"val0":"fi.tronfree.MainMenu","val1":"fi.tronfree.Game"},{"val0":"fi.tronfree.MainMenu","val1":"fi.tronfree.MainMenu"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

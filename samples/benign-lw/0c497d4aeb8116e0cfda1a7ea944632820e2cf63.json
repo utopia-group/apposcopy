@@ -1,0 +1,1 @@
+{"family":"[]","activities":["kr.co.okunse.love.loveFortune.Activity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"kr.co.okunse.love.loveFortune.Activity","val1":"$File","val2":"kr.co.okunse.love.loveFortune.Activity","val3":"!WebView"}],"samples":[]}

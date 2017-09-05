@@ -1,0 +1,1 @@
+{"family":"[]","activities":["AV.Girl.main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"AV.Girl.main","val1":"$MODEL","val2":"AV.Girl.main","val3":"!INTERNET"},{"val0":"AV.Girl.main","val1":"$BRAND","val2":"AV.Girl.main","val3":"!INTERNET"}]}

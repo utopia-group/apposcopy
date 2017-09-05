@@ -1,0 +1,1 @@
+{"family":"[]","activities":["kr.web2app.heyLoan.Intro","kr.web2app.heyLoan.Main"],"services":[],"receivers":[],"iccg":[{"val0":"kr.web2app.heyLoan.Intro","val1":"kr.web2app.heyLoan.Main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"kr.web2app.heyLoan.Main","val1":"$getDeviceId","val2":"kr.web2app.heyLoan.Main","val3":"!WebView"}]}

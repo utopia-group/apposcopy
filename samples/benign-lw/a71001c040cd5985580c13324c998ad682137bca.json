@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.bzyg.tianpengzhuan.TianPengZhuan"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.bzyg.tianpengzhuan.TianPengZhuan","val1":"$MyTime","val2":"com.bzyg.tianpengzhuan.TianPengZhuan","val3":"!WebView"}],"samples":[]}

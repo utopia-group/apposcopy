@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":["de.appsplus.widgets.MainWidgetView$UpdateService"],"receivers":["de.appsplus.widgets.MainWidgetView"],"iccg":[{"val0":"de.appsplus.widgets.MainWidgetView","val1":"de.appsplus.widgets.MainWidgetView$UpdateService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

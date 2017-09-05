@@ -1,0 +1,1 @@
+{"family":"[]","activities":["mobi.mgeek.showip.DisplayActivity","mobi.mgeek.showip.About"],"services":[],"receivers":[],"iccg":[{"val0":"mobi.mgeek.showip.About","val1":"mobi.mgeek.showip.DisplayActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.tetedebois.android.picaslidelite.PicaSlide","org.tetedebois.android.picaslidelite.Settings"],"services":[],"receivers":[],"iccg":[{"val0":"org.tetedebois.android.picaslidelite.PicaSlide","val1":"org.tetedebois.android.picaslidelite.Settings"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

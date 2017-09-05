@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.catsoft.crayonfree.Me2DroidActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"org.catsoft.crayonfree.Me2DroidActivity","val1":"\u003candroid.content.BroadcastReceiver: void abortBroadcast()\u003e"}],"taintFlows":[]}

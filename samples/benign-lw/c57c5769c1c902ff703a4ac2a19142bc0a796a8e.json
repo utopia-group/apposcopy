@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.likeapp.android.randomjoke.zh.MainActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.likeapp.android.randomjoke.zh.MainActivity","val1":"$File","val2":"com.likeapp.android.randomjoke.zh.MainActivity","val3":"!INTERNET"}],"samples":[]}

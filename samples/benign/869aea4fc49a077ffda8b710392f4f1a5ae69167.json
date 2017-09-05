@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.calcbuddy.CalcBuddy","com.calcbuddy.Settings"],"services":[],"receivers":[],"iccg":[{"val0":"com.calcbuddy.CalcBuddy","val1":"com.calcbuddy.Settings"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

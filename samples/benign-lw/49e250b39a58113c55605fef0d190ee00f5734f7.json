@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":[],"receivers":["org.androidappdev.wifiwidget.WifiAppWidgetProvider"],"iccg":[],"intentFilters":[{"val0":"org.androidappdev.wifiwidget.WifiAppWidgetProvider","val1":"android.net.conn.CONNECTIVITY_CHANGE"}],"dangerAPIs":[],"taintFlows":[],"samples":[]}

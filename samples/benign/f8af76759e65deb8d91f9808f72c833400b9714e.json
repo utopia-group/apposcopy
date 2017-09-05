@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ap.WidgetTest.NoteWidgetConfigure","com.ap.WidgetTest.ViewNote"],"services":[],"receivers":["com.ap.WidgetTest.NoteWidgetProvider"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

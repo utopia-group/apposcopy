@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.rebello.korpengoteborg.korpengoteborgPreferences","com.rebello.korpengoteborg.korpengoteborg"],"services":[],"receivers":[],"iccg":[{"val0":"com.rebello.korpengoteborg.korpengoteborg","val1":"com.rebello.korpengoteborg.korpengoteborgPreferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

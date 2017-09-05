@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","gpsspeed.gpsspeed.mainActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"gpsspeed.gpsspeed.mainActivity","val1":"$MyDate","val2":"gpsspeed.gpsspeed.mainActivity","val3":"!INTERNET"}],"samples":[]}

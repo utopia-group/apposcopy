@@ -1,0 +1,1 @@
+{"family":"[]","activities":["northern.captain.seabattle.SeabattleNC","northern.captain.seabattle.bluetooth.DeviceSearchActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"northern.captain.seabattle.SeabattleNC","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

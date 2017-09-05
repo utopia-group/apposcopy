@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.multak.SkyKTV.SkyKTV"],"services":[],"receivers":[],"iccg":[{"val0":"com.multak.SkyKTV.SkyKTV","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.multak.SkyKTV.SkyKTV","val1":"$File","val2":"com.multak.SkyKTV.SkyKTV","val3":"!INTERNET"}],"samples":[]}

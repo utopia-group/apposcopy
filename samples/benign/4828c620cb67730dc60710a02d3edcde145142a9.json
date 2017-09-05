@@ -1,0 +1,1 @@
+{"family":"[]","activities":["mk.hengam.mkdroid.main"],"services":["mk.hengam.mkdroid.hengam"],"receivers":["mk.hengam.mkdroid.hengam$hengam_BR"],"iccg":[{"val0":"mk.hengam.mkdroid.hengam$hengam_BR","val1":"mk.hengam.mkdroid.hengam"}],"intentFilters":[{"val0":"mk.hengam.mkdroid.hengam$hengam_BR","val1":"android.intent.action.BOOT_COMPLETED"}],"dangerAPIs":[],"taintFlows":[]}

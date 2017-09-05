@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.affinestudios.coasterfrenzy.AndroidCoaster"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.affinestudios.coasterfrenzy.AndroidCoaster","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

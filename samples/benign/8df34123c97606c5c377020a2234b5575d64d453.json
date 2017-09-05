@@ -1,0 +1,1 @@
+{"family":"[]","activities":["ua.co.cts.sideup.LevelActivity","ua.co.cts.sideup.HomeActivity","ua.co.cts.sideup.MenuActivity"],"services":[],"receivers":[],"iccg":[{"val0":"ua.co.cts.sideup.MenuActivity","val1":"ua.co.cts.sideup.HomeActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

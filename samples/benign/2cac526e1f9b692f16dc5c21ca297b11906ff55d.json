@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.artefactsoft.daflite.Preferences","com.artefactsoft.daflite.Daf"],"services":[],"receivers":[],"iccg":[{"val0":"com.artefactsoft.daflite.Daf","val1":"com.artefactsoft.daflite.Preferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

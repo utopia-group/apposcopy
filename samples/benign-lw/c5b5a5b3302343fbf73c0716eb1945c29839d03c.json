@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gudensoft.golfgps.CourseListActivity","com.gudensoft.golfgps.golfMain"],"services":[],"receivers":[],"iccg":[{"val0":"com.gudensoft.golfgps.golfMain","val1":"com.gudensoft.golfgps.CourseListActivity"},{"val0":"com.gudensoft.golfgps.golfMain","val1":"com.gudensoft.golfgps.golfMain"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

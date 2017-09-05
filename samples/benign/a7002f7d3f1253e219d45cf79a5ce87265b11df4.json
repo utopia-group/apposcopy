@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.Room072.SiteActivity","com.Room072.Room072Activity","com.Room072.FirstActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.Room072.Room072Activity","val1":"com.Room072.SiteActivity"},{"val0":"com.Room072.FirstActivity","val1":"com.Room072.SiteActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

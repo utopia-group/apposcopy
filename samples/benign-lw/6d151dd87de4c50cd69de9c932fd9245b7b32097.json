@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.tak.blip.Blip","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.tak.blip.Blip","val1":"$File","val2":"com.tak.blip.Blip","val3":"!FILE"},{"val0":"com.tak.blip.Blip","val1":"$MyDate","val2":"com.tak.blip.Blip","val3":"!FILE"}],"samples":[]}

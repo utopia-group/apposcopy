@@ -1,0 +1,1 @@
+{"family":"[]","activities":["net.iwasno.fossy.rpncalculator.EditOptions","net.iwasno.fossy.rpncalculator.RpnCalculator"],"services":[],"receivers":[],"iccg":[{"val0":"net.iwasno.fossy.rpncalculator.RpnCalculator","val1":"net.iwasno.fossy.rpncalculator.EditOptions"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.graphilos.apkinst.FileBrowser"],"services":[],"receivers":[],"iccg":[{"val0":"com.graphilos.apkinst.FileBrowser","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

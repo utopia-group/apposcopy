@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.xg.quickenglish.HistoryActivity","com.xg.quickenglish.MainAcivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.xg.quickenglish.MainAcivity","val1":"com.xg.quickenglish.HistoryActivity"},{"val0":"com.xg.quickenglish.MainAcivity","val1":"com.xg.quickenglish.MainAcivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

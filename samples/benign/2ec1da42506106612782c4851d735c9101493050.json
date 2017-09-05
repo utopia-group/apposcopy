@@ -1,0 +1,1 @@
+{"family":"[]","activities":["wbl.android.tie.ties","wbl.android.tie.main"],"services":[],"receivers":[],"iccg":[{"val0":"wbl.android.tie.main","val1":"wbl.android.tie.ties"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

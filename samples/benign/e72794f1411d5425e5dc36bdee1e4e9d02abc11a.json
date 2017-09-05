@@ -1,0 +1,1 @@
+{"family":"[]","activities":["name.pilgr.android.picat.PiCatActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"name.pilgr.android.picat.PiCatActivity","val1":"\u003cjava.lang.ClassLoader: java.lang.Class loadClass(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

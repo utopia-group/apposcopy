@@ -1,0 +1,1 @@
+{"family":"[]","activities":["jp.nmochizu.kirakira_core.MyWallpaperSetting","jp.nmochizu.kirakira_core.OpenView","com.google.ads.AdActivity"],"services":["jp.nmochizu.kirakira_core.MyWallpaperService"],"receivers":[],"iccg":[{"val0":"jp.nmochizu.kirakira_core.OpenView","val1":"jp.nmochizu.kirakira_core.OpenView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

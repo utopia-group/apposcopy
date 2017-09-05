@@ -1,0 +1,1 @@
+{"family":"[]","activities":["biz.tekeye.phonecontractsfree.FieldHelper","biz.tekeye.phonecontractsfree.main","biz.tekeye.phonecontractsfree.DeleteDetails"],"services":[],"receivers":[],"iccg":[{"val0":"biz.tekeye.phonecontractsfree.main","val1":"biz.tekeye.phonecontractsfree.FieldHelper"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

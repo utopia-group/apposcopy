@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.phonesecret.rresult","com.phonesecret.phonesecret"],"services":[],"receivers":[],"iccg":[{"val0":"com.phonesecret.phonesecret","val1":"com.phonesecret.rresult"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

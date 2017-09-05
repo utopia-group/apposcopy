@@ -1,0 +1,1 @@
+{"family":"[]","activities":["smart.hanssem.main","smart.hanssem.webviewer"],"services":[],"receivers":[],"iccg":[{"val0":"smart.hanssem.main","val1":"smart.hanssem.webviewer"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

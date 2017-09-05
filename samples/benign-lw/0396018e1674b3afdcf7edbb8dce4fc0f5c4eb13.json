@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.rnoel.typoclockfreewidget.WidgetPreferences"],"services":["com.rnoel.typoclockfreewidget.ClockWidget$UpdateService"],"receivers":["com.rnoel.typoclockfreewidget.ClockWidget"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

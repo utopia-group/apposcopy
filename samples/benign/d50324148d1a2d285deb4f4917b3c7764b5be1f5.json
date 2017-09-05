@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ShenMa.Baby.main","com.ShenMa.Baby.show"],"services":[],"receivers":[],"iccg":[{"val0":"com.ShenMa.Baby.show","val1":"com.ShenMa.Baby.main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

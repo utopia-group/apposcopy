@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ResumeBear.app.Signup","com.ResumeBear.app.Send","com.ResumeBear.app.RB","com.ResumeBear.app.Home","com.ResumeBear.app.Settings"],"services":[],"receivers":[],"iccg":[{"val0":"com.ResumeBear.app.Home","val1":"com.ResumeBear.app.Send"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

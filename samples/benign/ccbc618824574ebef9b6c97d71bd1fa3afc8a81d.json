@@ -1,0 +1,1 @@
+{"family":"[]","activities":["ro.mihaiplesa.balaur.SearchActivity","ro.mihaiplesa.balaur.ResultsActivity"],"services":[],"receivers":[],"iccg":[{"val0":"ro.mihaiplesa.balaur.SearchActivity","val1":"ro.mihaiplesa.balaur.ResultsActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

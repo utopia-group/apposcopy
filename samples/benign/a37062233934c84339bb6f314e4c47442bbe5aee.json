@@ -1,0 +1,1 @@
+{"family":"[]","activities":["giena.dao.en.MyDaoActivity","giena.dao.en.ViewActivity"],"services":[],"receivers":[],"iccg":[{"val0":"giena.dao.en.MyDaoActivity","val1":"giena.dao.en.ViewActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

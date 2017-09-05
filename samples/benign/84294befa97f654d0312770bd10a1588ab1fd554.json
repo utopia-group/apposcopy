@@ -1,0 +1,1 @@
+{"family":"[]","activities":["showtime.birdslwp.WallpaperSettings","showtime.birdslwp.TestActivity","showtime.birdslwp.PromoActivity"],"services":["showtime.birdslwp.WallpaperService"],"receivers":[],"iccg":[{"val0":"showtime.birdslwp.TestActivity","val1":"showtime.birdslwp.WallpaperSettings"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

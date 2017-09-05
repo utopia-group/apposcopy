@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.zxing.client.android.CaptureActivity","nl.everybodylikespenguins.zelfzorg"],"services":[],"receivers":[],"iccg":[{"val0":"nl.everybodylikespenguins.zelfzorg","val1":"com.google.zxing.client.android.CaptureActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

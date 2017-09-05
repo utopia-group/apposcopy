@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.welant.imprix.SelectSource","com.welant.imprix.Main"],"services":[],"receivers":[],"iccg":[{"val0":"com.welant.imprix.Main","val1":"com.welant.imprix.SelectSource"},{"val0":"com.welant.imprix.Main","val1":"com.welant.imprix.Main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

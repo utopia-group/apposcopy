@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.digitala.vesti.activity.ArticleActivity","com.digitala.vesti.MainActivity","com.digitala.vesti.activity.VideoActivity"],"services":["com.digitala.vesti.utils.ExceptionHandler"],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

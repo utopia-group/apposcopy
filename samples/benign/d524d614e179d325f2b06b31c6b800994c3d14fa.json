@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wangyh.android.setting.MainActivity","com.adwo.adsdk.AdwoAdBrowserActivity","cn.domob.android.ads.DomobActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.adwo.adsdk.AdwoAdBrowserActivity","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

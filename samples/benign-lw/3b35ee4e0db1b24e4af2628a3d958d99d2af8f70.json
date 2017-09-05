@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":[],"receivers":["com.farproc.clip.mem.Receiver"],"iccg":[],"intentFilters":[{"val0":"com.farproc.clip.mem.Receiver","val1":"android.intent.action.BOOT_COMPLETED"}],"dangerAPIs":[],"taintFlows":[],"samples":[]}

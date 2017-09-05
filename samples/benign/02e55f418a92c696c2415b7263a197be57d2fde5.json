@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.bitdoo.filipebatista.meteoipleiria.ConfigureActivity","com.bitdoo.filipebatista.meteoipleiria.InfoActivity"],"services":["com.bitdoo.filipebatista.meteoipleiria.UpdateWidgetService"],"receivers":["com.bitdoo.filipebatista.meteoipleiria.MeteoWidget"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

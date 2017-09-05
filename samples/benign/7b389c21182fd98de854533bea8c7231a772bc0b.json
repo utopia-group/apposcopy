@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.tarikguney.rssreader.RSSReader","com.tarikguney.rssreader.ShowDescription"],"services":[],"receivers":[],"iccg":[{"val0":"com.tarikguney.rssreader.RSSReader","val1":"com.tarikguney.rssreader.ShowDescription"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.qz.Foneclay.Foneclay","com.qz.Foneclay.Preferences"],"services":[],"receivers":[],"iccg":[{"val0":"com.qz.Foneclay.Foneclay","val1":"com.qz.Foneclay.Preferences"},{"val0":"com.qz.Foneclay.Foneclay","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

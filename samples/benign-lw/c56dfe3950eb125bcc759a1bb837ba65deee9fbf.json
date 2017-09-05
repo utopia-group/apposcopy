@@ -1,0 +1,1 @@
+{"family":"[]","activities":["androix.com.android.NightVisionCam.NightVisionCam","com.google.ads.AdActivity","androix.com.android.NightVisionCam.NVCOptions"],"services":[],"receivers":[],"iccg":[{"val0":"androix.com.android.NightVisionCam.NightVisionCam","val1":"androix.com.android.NightVisionCam.NVCOptions"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

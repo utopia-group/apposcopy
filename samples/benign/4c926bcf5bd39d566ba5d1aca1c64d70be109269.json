@@ -1,0 +1,1 @@
+{"family":"[]","activities":["info.edgeemu.org.roms.android.Roms","info.edgeemu.org.roms.android.Web"],"services":[],"receivers":[],"iccg":[{"val0":"info.edgeemu.org.roms.android.Roms","val1":"info.edgeemu.org.roms.android.Web"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

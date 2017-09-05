@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.polarbit.toonwarzlite.toonwarzlite"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.polarbit.toonwarzlite.toonwarzlite","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

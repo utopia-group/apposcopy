@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.hanoi.hanoisetup","com.hanoi.about","com.hanoi.hanoi"],"services":[],"receivers":[],"iccg":[{"val0":"com.hanoi.hanoi","val1":"com.hanoi.hanoisetup"},{"val0":"com.hanoi.hanoi","val1":"com.hanoi.about"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

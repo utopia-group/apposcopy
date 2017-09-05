@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.lomec.fbtest.TestMain","com.lomec.fbtest.GameBreak","com.lomec.fbtest.GameOver","com.google.ads.AdActivity","com.lomec.fbtest.ScoreTable","com.lomec.fbtest.Options","com.lomec.fbtest.Help","com.lomec.fbtest.Menu"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

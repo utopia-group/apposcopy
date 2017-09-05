@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.pack.duke.copy","com.pack.duke.main"],"services":[],"receivers":[],"iccg":[{"val0":"com.pack.duke.main","val1":"com.pack.duke.copy"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

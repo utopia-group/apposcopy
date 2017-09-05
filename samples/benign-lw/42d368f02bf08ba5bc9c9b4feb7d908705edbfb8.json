@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.engineCalc.EngineCalculator","com.engineCalc.loadEngine"],"services":[],"receivers":[],"iccg":[{"val0":"com.engineCalc.EngineCalculator","val1":"com.engineCalc.EngineCalculator"},{"val0":"com.engineCalc.EngineCalculator","val1":"com.engineCalc.loadEngine"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

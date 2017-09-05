@@ -1,0 +1,1 @@
+{"family":"[]","activities":["jp.Fly.GameMain","jp.Fly.Fly","jp.Fly.Result"],"services":[],"receivers":[],"iccg":[{"val0":"jp.Fly.GameMain","val1":"jp.Fly.Result"},{"val0":"jp.Fly.Fly","val1":"jp.Fly.GameMain"},{"val0":"jp.Fly.Result","val1":"jp.Fly.GameMain"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

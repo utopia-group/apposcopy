@@ -1,0 +1,1 @@
+{"family":"[]","activities":["my.cigarettes.CigarettesActivity","com.google.ads.AdActivity","my.cigarettes.Stats"],"services":[],"receivers":["my.cigarettes.MyWidgetProvider"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

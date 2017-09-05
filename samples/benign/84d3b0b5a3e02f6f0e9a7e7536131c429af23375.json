@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.feasy.app.sound.water.Main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.feasy.app.sound.water.Main","val1":"$MODEL","val2":"com.feasy.app.sound.water.Main","val3":"!INTERNET"}]}

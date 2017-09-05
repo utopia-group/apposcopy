@@ -1,0 +1,1 @@
+{"family":"[]","activities":["ymst.android.symmetricam.HelpAbout","ymst.android.symmetricam.FlickrUploader","ymst.android.symmetricam.SymmetriCamMain","ymst.android.symmetricam.Config"],"services":[],"receivers":[],"iccg":[{"val0":"ymst.android.symmetricam.SymmetriCamMain","val1":"ymst.android.symmetricam.Config"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

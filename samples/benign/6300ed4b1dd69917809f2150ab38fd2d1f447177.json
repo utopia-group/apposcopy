@@ -1,0 +1,1 @@
+{"family":"[]","activities":["app.android.life.Settings","app.android.life.start","app.android.life.main"],"services":[],"receivers":[],"iccg":[{"val0":"app.android.life.main","val1":"app.android.life.Settings"},{"val0":"app.android.life.main","val1":"app.android.life.start"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

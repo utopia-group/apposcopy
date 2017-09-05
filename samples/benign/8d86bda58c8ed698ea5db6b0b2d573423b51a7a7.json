@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.luxdroid.app.flashlight.CFPreference","com.luxdroid.app.flashlight.CameraFlashlight"],"services":[],"receivers":[],"iccg":[{"val0":"com.luxdroid.app.flashlight.CameraFlashlight","val1":"com.luxdroid.app.flashlight.CFPreference"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

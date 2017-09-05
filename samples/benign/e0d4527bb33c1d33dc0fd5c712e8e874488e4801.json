@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ladida.riddles.SettingsActivity","com.ladida.riddles.RiddlesActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.ladida.riddles.RiddlesActivity","val1":"com.ladida.riddles.SettingsActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

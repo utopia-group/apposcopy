@@ -1,0 +1,1 @@
+{"family":"[]","activities":["jp.pltk.HukkinFree.WeightGraph","jp.pltk.HukkinFree.Main","jp.pltk.HukkinFree.Count"],"services":[],"receivers":[],"iccg":[{"val0":"jp.pltk.HukkinFree.Main","val1":"jp.pltk.HukkinFree.WeightGraph"},{"val0":"jp.pltk.HukkinFree.Main","val1":"jp.pltk.HukkinFree.Count"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.bukhari.Books","com.bukhari.Bukhari","com.bukhari.Bookmarks"],"services":[],"receivers":[],"iccg":[{"val0":"com.bukhari.Books","val1":"com.bukhari.Bukhari"},{"val0":"com.bukhari.Books","val1":"com.bukhari.Bookmarks"},{"val0":"com.bukhari.Bukhari","val1":"com.bukhari.Bookmarks"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

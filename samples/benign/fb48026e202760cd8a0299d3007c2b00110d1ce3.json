@@ -1,0 +1,1 @@
+{"family":"[]","activities":["upper.duper.widget.MaestroConfig"],"services":["upper.duper.widget.MaestroClock$UpdateService"],"receivers":["upper.duper.widget.MaestroClock"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

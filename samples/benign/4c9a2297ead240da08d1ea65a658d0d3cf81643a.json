@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.md5hash.MainActivity","com.md5hash.FileDialog"],"services":[],"receivers":[],"iccg":[{"val0":"com.md5hash.MainActivity","val1":"com.md5hash.FileDialog"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

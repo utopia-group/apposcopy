@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.red.girlsforyou.Activity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.red.girlsforyou.Activity","val1":"$File","val2":"com.red.girlsforyou.Activity","val3":"!WebView"}],"samples":[]}

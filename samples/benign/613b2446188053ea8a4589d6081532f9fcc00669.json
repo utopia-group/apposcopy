@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.codeiv.PhotoBook.Themes.Valentine.LauncherActivity"],"services":["com.codeiv.PhotoBook.Themes.Valentine.ThemeService"],"receivers":[],"iccg":[{"val0":"com.codeiv.PhotoBook.Themes.Valentine.LauncherActivity","val1":"com.codeiv.PhotoBook.Themes.Valentine.LauncherActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

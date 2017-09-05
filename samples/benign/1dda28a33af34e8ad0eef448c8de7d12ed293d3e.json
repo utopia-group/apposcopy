@@ -1,0 +1,1 @@
+{"family":"[]","activities":["co.uk.wizardstudios.fartroid.Fartroid"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"co.uk.wizardstudios.fartroid.Fartroid","val1":"$MODEL","val2":"co.uk.wizardstudios.fartroid.Fartroid","val3":"!INTERNET"}],"samples":[]}

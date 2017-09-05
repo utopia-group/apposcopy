@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.game.game.memory.Narutogame.Applause","com.game.game.memory.Narutogame.OptionActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.game.game.memory.Narutogame.Applause","val1":"com.game.game.memory.Narutogame.OptionActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

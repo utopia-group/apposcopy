@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mepro.searcheng.page","com.mepro.searcheng.logo","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.mepro.searcheng.logo","val1":"com.mepro.searcheng.page"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

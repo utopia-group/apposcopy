@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ame.weapon.Weapon","com.ame.weapon.ActivityMain","com.ame.weapon.About"],"services":[],"receivers":[],"iccg":[{"val0":"com.ame.weapon.ActivityMain","val1":"com.ame.weapon.Weapon"},{"val0":"com.ame.weapon.ActivityMain","val1":"com.ame.weapon.About"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

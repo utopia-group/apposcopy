@@ -1,0 +1,1 @@
+{"family":"[]","activities":["a.b.c.android.xiaoshuo.lxzctxm.ContentActivity","a.b.c.android.xiaoshuo.lxzctxm.Lxzctxm"],"services":[],"receivers":[],"iccg":[{"val0":"a.b.c.android.xiaoshuo.lxzctxm.Lxzctxm","val1":"a.b.c.android.xiaoshuo.lxzctxm.ContentActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

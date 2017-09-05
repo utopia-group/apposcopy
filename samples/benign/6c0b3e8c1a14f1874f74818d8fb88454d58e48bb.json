@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.dmatesic.android.CelebrityGameActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.dmatesic.android.CelebrityGameActivity","val1":"$MODEL","val2":"com.dmatesic.android.CelebrityGameActivity","val3":"!INTERNET"}]}

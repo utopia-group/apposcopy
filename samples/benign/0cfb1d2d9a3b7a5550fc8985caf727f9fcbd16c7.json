@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.marhinri.invitationproc.trial.InvitationProcessorTrialActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.marhinri.invitationproc.trial.InvitationProcessorTrialActivity","val1":"com.marhinri.invitationproc.trial.InvitationProcessorTrialActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

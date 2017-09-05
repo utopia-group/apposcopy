@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.wp.Eleganthome2.Eleganthome2"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.Eleganthome2.Eleganthome2","val1":"com.google.ads.AdActivity"},{"val0":"com.wp.Eleganthome2.Eleganthome2","val1":"com.wp.Eleganthome2.Eleganthome2"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

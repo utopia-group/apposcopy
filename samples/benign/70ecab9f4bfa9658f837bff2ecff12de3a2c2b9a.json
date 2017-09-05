@@ -1,0 +1,1 @@
+{"family":"[]","activities":["oms.mmc.fthelper_td.FThelper"],"services":[],"receivers":[],"iccg":[{"val0":"oms.mmc.fthelper_td.FThelper","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

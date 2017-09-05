@@ -1,0 +1,1 @@
+{"family":"[]","activities":["oms.wbltools.Mobile"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"oms.wbltools.Mobile","val1":"$MODEL","val2":"oms.wbltools.Mobile","val3":"!INTERNET"}]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["co.kr.mindclassic.snook.Play","co.kr.mindclassic.snook.Menu","co.kr.mindclassic.snook.Main"],"services":[],"receivers":[],"iccg":[{"val0":"co.kr.mindclassic.snook.Menu","val1":"co.kr.mindclassic.snook.Play"},{"val0":"co.kr.mindclassic.snook.Main","val1":"co.kr.mindclassic.snook.Menu"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

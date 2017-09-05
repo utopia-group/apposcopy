@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":[],"receivers":["net.beshkenadze.android.buttonbacklightwidget.WidgetProvider"],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"net.beshkenadze.android.buttonbacklightwidget.WidgetProvider","val1":"\u003cjava.lang.Runtime: java.lang.Process exec(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

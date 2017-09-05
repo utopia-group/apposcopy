@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.hyperkani.bubbles.BubblesAndroid"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.hyperkani.bubbles.BubblesAndroid","val1":"$MODEL","val2":"com.hyperkani.bubbles.BubblesAndroid","val3":"!INTERNET"}]}

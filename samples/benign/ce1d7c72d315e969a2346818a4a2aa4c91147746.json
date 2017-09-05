@@ -1,0 +1,1 @@
+{"family":"[]","activities":["us.sourcio.android.puzzle.fashion.PuzzleActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"us.sourcio.android.puzzle.fashion.PuzzleActivity","val1":"$MODEL","val2":"us.sourcio.android.puzzle.fashion.PuzzleActivity","val3":"!INTERNET"}]}

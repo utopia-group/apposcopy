@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wasp.vbox7handler.vbox7handler"],"services":[],"receivers":[],"iccg":[{"val0":"com.wasp.vbox7handler.vbox7handler","val1":"com.wasp.vbox7handler.vbox7handler"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

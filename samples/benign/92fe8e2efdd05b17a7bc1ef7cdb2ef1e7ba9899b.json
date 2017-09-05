@@ -1,0 +1,1 @@
+{"family":"[]","activities":["net.feisst.widget.timezonelight.TimeZoneWidgetLightConfigure"],"services":[],"receivers":["net.feisst.widget.timezonelight.TimeZoneWidgetLight"],"iccg":[{"val0":"net.feisst.widget.timezonelight.TimeZoneWidgetLightConfigure","val1":"net.feisst.widget.timezonelight.TimeZoneWidgetLight"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["ian.qclock.Clock"],"services":["ian.qclock.AlarmService"],"receivers":[],"iccg":[{"val0":"ian.qclock.Clock","val1":"ian.qclock.AlarmService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

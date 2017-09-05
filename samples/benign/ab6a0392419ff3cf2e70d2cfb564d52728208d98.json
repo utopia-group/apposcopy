@@ -1,0 +1,1 @@
+{"family":"[]","activities":["de.elmicha.app.LocaleExecute.EditActivity","com.twofortyfouram.MarketActivity"],"services":[],"receivers":["de.elmicha.app.LocaleExecute.FireReceiver"],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"de.elmicha.app.LocaleExecute.FireReceiver","val1":"\u003cjava.lang.Runtime: java.lang.Process exec(java.lang.String[])\u003e"}],"taintFlows":[]}

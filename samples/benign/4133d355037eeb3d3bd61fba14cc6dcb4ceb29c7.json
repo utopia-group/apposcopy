@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.eun.easytranslator.set_Language","com.eun.easytranslator.Cute_Translator"],"services":[],"receivers":[],"iccg":[{"val0":"com.eun.easytranslator.Cute_Translator","val1":"com.eun.easytranslator.set_Language"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

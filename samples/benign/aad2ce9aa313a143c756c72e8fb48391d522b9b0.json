@@ -1,0 +1,1 @@
+{"family":"[]","activities":["j.kross.tuxads.GameActivity","j.kross.tuxads.Main"],"services":[],"receivers":[],"iccg":[{"val0":"j.kross.tuxads.Main","val1":"j.kross.tuxads.GameActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"j.kross.tuxads.Main","val1":"$MODEL","val2":"j.kross.tuxads.Main","val3":"!INTERNET"}],"samples":[]}

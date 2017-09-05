@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.hou.quotes.Quotes","org.hou.quotes.womens.WomensQuotes","com.google.ads.AdActivity"],"services":[],"receivers":["com.google.ads.InstallReceiver"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

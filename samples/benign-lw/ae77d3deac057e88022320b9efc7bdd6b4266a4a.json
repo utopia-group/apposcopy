@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.kumi.Bahamut.BahamutController"],"services":[],"receivers":["com.kumi.ASFramework.Network.ASNetworkStateChangeReceiver"],"iccg":[],"intentFilters":[{"val0":"com.kumi.ASFramework.Network.ASNetworkStateChangeReceiver","val1":"android.net.conn.CONNECTIVITY_CHANGE"}],"dangerAPIs":[],"taintFlows":[],"samples":[]}

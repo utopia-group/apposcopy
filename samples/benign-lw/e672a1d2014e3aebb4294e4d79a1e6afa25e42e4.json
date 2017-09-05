@@ -1,0 +1,1 @@
+{"family":"[]","activities":["radonsoft.net.mycon.MyCon"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"radonsoft.net.mycon.MyCon","val1":"\u003cjava.lang.ProcessBuilder: java.lang.Process start()\u003e"}],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ascar.wapqphotoaddon.WapqPhotoAddOnActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.ascar.wapqphotoaddon.WapqPhotoAddOnActivity","val1":"$MyDate","val2":"com.ascar.wapqphotoaddon.WapqPhotoAddOnActivity","val3":"!INTERNET"}],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.uaraven.e.EMainActivity","org.uaraven.e.EHelpActivity","org.uaraven.e.ECodeViewActivity"],"services":[],"receivers":[],"iccg":[{"val0":"org.uaraven.e.EMainActivity","val1":"org.uaraven.e.EHelpActivity"},{"val0":"org.uaraven.e.EMainActivity","val1":"org.uaraven.e.ECodeViewActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

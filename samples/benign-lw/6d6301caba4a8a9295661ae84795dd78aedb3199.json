@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.rb.tables.LearnTables","com.rb.tables.SelectBackground"],"services":[],"receivers":[],"iccg":[{"val0":"com.rb.tables.LearnTables","val1":"com.rb.tables.LearnTables"},{"val0":"com.rb.tables.LearnTables","val1":"com.rb.tables.SelectBackground"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

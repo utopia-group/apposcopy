@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.slotmaniac.slotmaniac"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.slotmaniac.slotmaniac","val1":"$MODEL","val2":"com.slotmaniac.slotmaniac","val3":"!INTERNET"}]}

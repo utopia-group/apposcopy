@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.adamcox.rapbeats.RapBeatsActivity","com.adamcox.rapbeats.MP3Downloader"],"services":[],"receivers":[],"iccg":[{"val0":"com.adamcox.rapbeats.RapBeatsActivity","val1":"com.adamcox.rapbeats.MP3Downloader"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

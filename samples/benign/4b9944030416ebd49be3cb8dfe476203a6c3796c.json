@@ -1,0 +1,1 @@
+{"family":"[]","activities":["uk.co.wikiapps.hotelfinder.Hotels","uk.co.wikiapps.hotelfinder.preferences"],"services":[],"receivers":["com.google.android.apps.analytics.AnalyticsReceiver"],"iccg":[{"val0":"uk.co.wikiapps.hotelfinder.Hotels","val1":"uk.co.wikiapps.hotelfinder.preferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.sss.passwordkeeper.gui.CategoryManagementActivity","com.sss.passwordkeeper.gui.MainActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.sss.passwordkeeper.gui.MainActivity","val1":"com.sss.passwordkeeper.gui.CategoryManagementActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

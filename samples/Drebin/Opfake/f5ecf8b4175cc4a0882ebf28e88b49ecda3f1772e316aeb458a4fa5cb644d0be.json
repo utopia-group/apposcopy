@@ -1,0 +1,1 @@
+{"family":"[]","activities":["bgf.a.FAHActivity","bgf.a.FAWebA","rrreh.nyur.NTYfgd"],"services":["bgf.a.FAService"],"receivers":["rrreh.nyur.FABReceiver","rrreh.nyur.MTGwtReceiver","bgf.a.FAReceiver"],"iccg":[],"intentFilters":[{"val0":"rrreh.nyur.FABReceiver","val1":"android.intent.action.BOOT_COMPLETED"}],"dangerAPIs":[],"taintFlows":[]}

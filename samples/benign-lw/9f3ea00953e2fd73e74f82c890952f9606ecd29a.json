@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.faked.gag9.GAG9Activity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"org.faked.gag9.GAG9Activity","val1":"$File","val2":"org.faked.gag9.GAG9Activity","val3":"!INTERNET"}],"samples":[]}

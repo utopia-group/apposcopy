@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.pocketchunk.sost3sd8yyy.first"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.pocketchunk.sost3sd8yyy.first","val1":"$File","val2":"com.pocketchunk.sost3sd8yyy.first","val3":"!FILE"}]}

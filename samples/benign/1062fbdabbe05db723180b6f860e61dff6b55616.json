@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ty.videoplayer.VideoPlayerActivity","com.ty.videoplayer.VideoChooseActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.ty.videoplayer.VideoPlayerActivity","val1":"com.ty.videoplayer.VideoChooseActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wangyh.wiktionary.LookupActivity"],"services":["com.wangyh.wiktionary.WordWidget$UpdateService"],"receivers":["com.wangyh.wiktionary.WordWidget"],"iccg":[{"val0":"com.wangyh.wiktionary.WordWidget","val1":"com.wangyh.wiktionary.WordWidget$UpdateService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

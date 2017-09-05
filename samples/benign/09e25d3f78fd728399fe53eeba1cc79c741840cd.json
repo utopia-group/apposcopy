@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.griffin.androidcompass.Compass","com.griffin.androidcompass.SplashScreen"],"services":[],"receivers":[],"iccg":[{"val0":"com.griffin.androidcompass.SplashScreen","val1":"com.griffin.androidcompass.Compass"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

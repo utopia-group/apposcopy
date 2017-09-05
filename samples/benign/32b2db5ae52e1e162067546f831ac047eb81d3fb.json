@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.CharSoftware.GPSSpeedometer.ViewSpeedometer"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.CharSoftware.GPSSpeedometer.ViewSpeedometer","val1":"$File","val2":"com.CharSoftware.GPSSpeedometer.ViewSpeedometer","val3":"!INTERNET"}]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.cuisinart.KitchenSync.KitchenSync"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.cuisinart.KitchenSync.KitchenSync","val1":"$File","val2":"com.cuisinart.KitchenSync.KitchenSync","val3":"!INTERNET"}]}

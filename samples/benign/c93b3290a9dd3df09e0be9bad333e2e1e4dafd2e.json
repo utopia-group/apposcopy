@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.appsters.erzsebetvaros.Splash","com.appsters.erzsebetvaros.Main"],"services":[],"receivers":[],"iccg":[{"val0":"com.appsters.erzsebetvaros.Splash","val1":"com.appsters.erzsebetvaros.Main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

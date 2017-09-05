@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.farproc.wifi.statIc.IPConfiguration","com.farproc.wifi.statIc.Settings"],"services":[],"receivers":["com.farproc.wifi.statIc.WifiReceiver"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

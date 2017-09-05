@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.slushpupie.deskclock.DeskClock","com.slushpupie.deskclock.DeskClockPreferenceActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.slushpupie.deskclock.DeskClock","val1":"com.slushpupie.deskclock.DeskClockPreferenceActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

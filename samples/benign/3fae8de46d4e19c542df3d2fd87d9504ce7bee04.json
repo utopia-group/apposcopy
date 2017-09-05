@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.goodmoments.ListMomentsActivity","com.goodmoments.GoodMomentsActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.goodmoments.ListMomentsActivity","val1":"com.goodmoments.GoodMomentsActivity"},{"val0":"com.goodmoments.GoodMomentsActivity","val1":"com.goodmoments.ListMomentsActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

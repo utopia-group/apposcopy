@@ -1,0 +1,1 @@
+{"family":"[]","activities":["exe.Bank.PeopleTab","exe.Bank.Web","exe.Bank.Newsa","exe.Bank.NewsTab"],"services":[],"receivers":[],"iccg":[{"val0":"exe.Bank.Newsa","val1":"exe.Bank.PeopleTab"},{"val0":"exe.Bank.Newsa","val1":"exe.Bank.NewsTab"},{"val0":"exe.Bank.NewsTab","val1":"exe.Bank.Web"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

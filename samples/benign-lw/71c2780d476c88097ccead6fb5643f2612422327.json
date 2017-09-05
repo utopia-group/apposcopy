@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mob4games.kickitt.Main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.mob4games.kickitt.Main","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

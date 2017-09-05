@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.nemustech.gallery.ImageGallery","com.nemustech.ncam.MainActivity","com.nemustech.gallery.CropImage"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.nemustech.gallery.CropImage","val1":"\u003candroid.app.WallpaperManager: void setBitmap(android.graphics.Bitmap)\u003e"}],"taintFlows":[],"samples":[]}

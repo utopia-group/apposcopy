@@ -1,0 +1,1 @@
+{"family":"[]","activities":["hinkhoj.games.hangman.HangmanActivity","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"hinkhoj.games.hangman.HangmanActivity","val1":"$MyDate","val2":"hinkhoj.games.hangman.HangmanActivity","val3":"!INTERNET"}],"samples":[]}

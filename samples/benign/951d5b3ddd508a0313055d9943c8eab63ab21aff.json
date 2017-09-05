@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":[],"receivers":["de.softxperience.android.today.DateUpdater","de.softxperience.android.today.TodayWidget"],"iccg":[{"val0":"de.softxperience.android.today.DateUpdater","val1":"de.softxperience.android.today.DateUpdater"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

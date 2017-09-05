@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wp.Dessertcake.Dessertcake","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.Dessertcake.Dessertcake","val1":"com.wp.Dessertcake.Dessertcake"},{"val0":"com.wp.Dessertcake.Dessertcake","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

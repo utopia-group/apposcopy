@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ideatec.cs.ui.StandardStopwatch","com.google.ads.AdActivity","com.ideatec.cs.ui.RecordHistory"],"services":[],"receivers":[],"iccg":[{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

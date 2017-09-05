@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.kugoweb.caltheme.firsticons.MainActivity"],"services":[],"receivers":["com.kugoweb.caltheme.firsticons.MainUninstallReceiver"],"iccg":[],"intentFilters":[{"val0":"com.kugoweb.caltheme.firsticons.MainUninstallReceiver","val1":"android.intent.action.PACKAGE_REMOVED"}],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.dreamstep.wChoose_a_Package.BrowserFullScreen"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.dreamstep.wChoose_a_Package.BrowserFullScreen","val1":"$File","val2":"com.dreamstep.wChoose_a_Package.BrowserFullScreen","val3":"!INTERNET"}],"samples":[]}

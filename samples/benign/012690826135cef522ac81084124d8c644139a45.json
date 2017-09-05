@@ -1,0 +1,1 @@
+{"family":"[]","activities":["de.questmaster.tudmensa.MensaMeals","de.questmaster.tudmensa.MensaMealsSettings","de.questmaster.tudmensa.HelpDialog"],"services":[],"receivers":[],"iccg":[{"val0":"de.questmaster.tudmensa.MensaMeals","val1":"de.questmaster.tudmensa.MensaMealsSettings"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

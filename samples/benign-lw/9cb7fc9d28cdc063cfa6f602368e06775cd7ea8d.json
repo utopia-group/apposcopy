@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.tkcn.Activity.WebViewActivity","com.tkcn.GBBFan.FanMainActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.tkcn.GBBFan.FanMainActivity","val1":"$MyDate","val2":"com.tkcn.GBBFan.FanMainActivity","val3":"!INTERNET"}],"samples":[]}

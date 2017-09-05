@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ivasdroid.ibenderdroid.ibenderdroid"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.ivasdroid.ibenderdroid.ibenderdroid","val1":"$MODEL","val2":"com.ivasdroid.ibenderdroid.ibenderdroid","val3":"!INTERNET"}]}

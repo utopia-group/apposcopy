@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="STAMP-App">
+  <tstamp>
+    <format property="currenttime" pattern="yyyy.MM.dd_HH.mm.ss_z"/>
+  </tstamp>
+
+  <property name="apilevel" value="16"/>
+  <property name="app" location="."/>
+
+  <property name="app.loc" location="${app}"/>
+  <propertyregex property="app.loc.1" input="${app.loc}" regexp="/" replace="_" global="true" />
+
+  <target name="analyze">
+	<if>
+	  <isset property="stamp.out.dir"/>
+	  <then/>
+	  <else>
+		<property name="stamp.out.dir" value="${stamp.dir}/stamp_output/${app.loc.1}"/>
+		<delete dir="${stamp.out.dir}"/>
+		<mkdir dir="${stamp.out.dir}"/>
+	  </else>
+	</if>
+    <property name="driver.dir" location="${stamp.out.dir}/stamp-driver"/>
+	<!--echo>Analyze target running</echo-->
+	<if>
+	  <matches string="${app}" pattern="^.*\.apk$"/>
+      <then>
+		<property name="stamp.input.type" value="apk"/>
+		<property name="apk" value="${app.loc}"/>
+
+		<unjar src="${stamp.dir}/bin/api-${apilevel}/stamp.android.jar"
+			   dest="${stamp.out.dir}">
+		  <patternset>
+			<include name="stamp_annotations.txt"/>
+		  </patternset>
+		</unjar>
+
+		<antcall target="-analyze-apk"/>
+      </then>
+	  <else>
+		<property name="stamp.input.type" value="src"/>
+		<antcall target="-analyze-src"/>
+	  </else>
+    </if>
+  </target>
+
+  <target name="-analyze-src"
+		  depends="-build-app">
+    <!-- Start Tomcat server. -->
+    <exec executable="${stamp.tomcat.bindir}/startup.sh"
+		  spawn="false"
+		  failonerror="true"/>
+    <echo>Starting Tomcat server</echo>
+
+    <!-- Wait until the server is ready. -->
+    <waitfor maxwait="3" maxwaitunit="minute" checkevery="1000">
+	  <http url="http://localhost:8080"/>
+	</waitfor>
+
+    <!-- Prepare instructions for the web frontend. -->
+    <echo file="${stamp.out.dir}/stamp.properties">rootPath=${stamp.dir}
+appPath=${app.dir}
+outPath=${stamp.out.dir}
+srcPath=${stamp.src.path}:${stamp.gen.path}:${driver.dir}
+libPath=${stamp.lib.jars}
+stamp.droidrecord.logfile.template=${stamp.droidrecord.logfile.template}
+stamp.droidrecord.logfile.bin=${stamp.droidrecord.logfile.bin}
+	</echo>
+
+    <!-- Launch browser. -->
+    <if>
+      <isset property="stamp.server.host"/>
+	  <then/>
+	  <else>
+        <property name="stamp.server.host" value="localhost"/>
+	  </else>
+	</if>
+    <exec executable="${stamp.browser}"
+            spawn="true"
+            os="Linux">
+      <arg value="http://${stamp.server.host}:8080/stamp/html/index.jsp?propertyfile=${stamp.out.dir}/stamp.properties"/>
+    </exec>
+    <exec executable="open"
+            spawn="yes"
+            os="Mac OS X">
+      <arg line="-a" />
+      <arg value="${stamp.osx_browser}" />
+      <arg line="http://${stamp.server.host}:8080/stamp/html/index.jsp?propertyfile=${stamp.out.dir}/stamp.properties" />
+    </exec>
+    <echo>
+     If your browser fails to open automatically in a few seconds, please go to: 
+     http://${stamp.server.host}:8080/stamp/html/index.jsp?propertyfile=${stamp.out.dir}/stamp.properties
+    </echo>
+    <echo file="stamp-url.txt">
+     http://${stamp.server.host}:8080/stamp/html/index.jsp?propertyfile=${stamp.out.dir}/stamp.properties
+    </echo>
+  </target>
+
+
+  <target name="-build-app"
+		  depends="build">
+	<!--property name="app.dir" location="${app}"/-->
+    <!-- Calculate app paths. -->
+    <taskdef name="StampSetup"
+			 classname="stamp.StampBuildTask"
+			 classpath="${stamp.dir}/bin/stamp.main.jar"/>
+    <StampSetup absoluteAppPath="${app.loc}"
+				stampOutDir="${stamp.out.dir}"
+				annotJar="${stamp.dir}/bin/stamp.annotations.jar"
+				appDirPropName="app.dir"
+				srcPathPropName="stamp.src.path"
+				genPathPropName="stamp.gen.path"
+				classesPathPropName="stamp.classes.path"
+				libJarsPathPropName="stamp.lib.jars"
+				apkPathPropName="stamp.apk.path"/>
+    <echo>stamp.src.path=${stamp.src.path}</echo>
+    <echo>stamp.gen.path=${stamp.gen.path}</echo>
+    <echo>stamp.classes.path=${stamp.classes.path}</echo>
+    <echo>stamp.lib.jars=${stamp.lib.jars}</echo>
+	<echo>stamp.apk.path=${stamp.apk.path}</echo>
+
+	<property name="app.jar" value="${stamp.apk.path}"/>
+
+    <!-- Preprocess. -->
+    <java classname="stamp.srcmap.Preprocess"
+	  maxmemory="${stamp.maxheap}"
+	  dir="${app.dir}"
+	  fork="true"
+	  failonerror="true">
+      <jvmarg value="-ea"/>
+      <classpath>
+        <pathelement location="${stamp.dir}/bin/stamp.main.jar"/>
+      </classpath>
+      <arg file="${stamp.src.path}"/>
+    </java>
+
+    <!-- Construct source map. -->
+    <!-- Read annotations from source code and store them in stamp_annotations.txt .-->
+	<echo>app.dir=${app.dir}</echo>
+    <java classname="stamp.srcmap.Main"
+	  maxmemory="${stamp.maxheap}"
+	  dir="${stamp.out.dir}"
+	  fork="true"
+	  failonerror="true">
+      <jvmarg value="-ea"/>
+      <classpath>
+        <pathelement location="${stamp.dir}/bin/stamp.main.jar"/>
+        <fileset dir="${stamp.dir}/lib">
+          <include name="**/*.jar"/>
+        </fileset>
+      </classpath>
+      <arg value="${stamp.src.path}:${stamp.gen.path}"/>
+      <arg value="${stamp.lib.jars}:${stamp.dir}/bin/api-${apilevel}/stamp.android.jar"/>
+      <arg value="${stamp.out.dir}/srcmap"/>
+      <arg value="${stamp.dir}/models/api-${apilevel}"/>
+    </java>
+	
+	<property name="apk" value="${stamp.apk.path}"/>
+	<antcall target="-analyze-apk"/>
+  </target>
+
+</project>

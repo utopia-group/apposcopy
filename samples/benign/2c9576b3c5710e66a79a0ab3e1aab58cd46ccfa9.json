@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.funny.sounds.terminatorfly.Main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.funny.sounds.terminatorfly.Main","val1":"$File","val2":"com.funny.sounds.terminatorfly.Main","val3":"!FILE"}]}

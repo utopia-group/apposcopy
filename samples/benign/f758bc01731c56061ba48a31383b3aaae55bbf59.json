@@ -1,0 +1,1 @@
+{"family":"[]","activities":["net.michaelzhou.pennysms.SettingsActivity","net.michaelzhou.pennysms.PennySMSActivity"],"services":[],"receivers":[],"iccg":[{"val0":"net.michaelzhou.pennysms.PennySMSActivity","val1":"net.michaelzhou.pennysms.SettingsActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

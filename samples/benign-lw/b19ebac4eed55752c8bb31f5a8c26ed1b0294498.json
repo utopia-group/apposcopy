@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":["bitartist.dball.DBallWidget$UpdateService"],"receivers":["bitartist.dball.DBallWidget"],"iccg":[{"val0":"bitartist.dball.DBallWidget","val1":"bitartist.dball.DBallWidget"},{"val0":"bitartist.dball.DBallWidget","val1":"bitartist.dball.DBallWidget$UpdateService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

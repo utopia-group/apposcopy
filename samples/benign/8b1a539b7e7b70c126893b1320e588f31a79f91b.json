@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.teleeye.Main.Starter","com.teleeye.Welcome.SplashStartScreenActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.teleeye.Main.Starter","val1":"com.teleeye.Welcome.SplashStartScreenActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.darkandheavy.inotes.Login"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.darkandheavy.inotes.Login","val1":"$MODEL","val2":"com.darkandheavy.inotes.Login","val3":"!INTERNET"}],"samples":[]}

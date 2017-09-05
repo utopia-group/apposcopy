@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.masat.Nastavenia","com.masat.main"],"services":[],"receivers":[],"iccg":[{"val0":"com.masat.main","val1":"com.masat.Nastavenia"},{"val0":"com.masat.main","val1":"com.masat.main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

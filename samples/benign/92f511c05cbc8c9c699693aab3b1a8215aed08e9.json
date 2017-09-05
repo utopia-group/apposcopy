@@ -1,0 +1,1 @@
+{"family":"[]","activities":["Uxpp.UC.UC"],"services":["Uxpp.UC.UCService"],"receivers":[],"iccg":[{"val0":"Uxpp.UC.UCService","val1":"Uxpp.UC.UC"}],"intentFilters":[],"dangerAPIs":[{"val0":"Uxpp.UC.UC","val1":"\u003cjava.lang.System: void load(java.lang.String)\u003e"}],"taintFlows":[]}

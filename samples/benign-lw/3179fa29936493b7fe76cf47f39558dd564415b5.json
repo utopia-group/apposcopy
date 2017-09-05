@@ -1,0 +1,1 @@
+{"family":"[]","activities":["org.jwapp.tms.tms"],"services":[],"receivers":["org.jwapp.tms.ExampleAppWidgetProvider"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"org.jwapp.tms.tms","val1":"$File","val2":"org.jwapp.tms.tms","val3":"!WebView"}],"samples":[]}

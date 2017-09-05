@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.brodski.android.currencywidget.WidgetConfiguration"],"services":["com.brodski.android.currencywidget.WidgetService"],"receivers":["com.brodski.android.currencywidget.WidgetProvider"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

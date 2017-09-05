@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.ircddb.g2link.G2link"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.ircddb.g2link.G2link","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

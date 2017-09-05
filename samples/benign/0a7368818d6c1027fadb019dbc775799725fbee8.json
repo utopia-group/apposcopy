@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":[],"receivers":["com.myreallife.mobiledata.MobileDataWidgetProvider"],"iccg":[],"intentFilters":[{"val0":"com.myreallife.mobiledata.MobileDataWidgetProvider","val1":"android.net.conn.CONNECTIVITY_CHANGE"}],"dangerAPIs":[],"taintFlows":[]}

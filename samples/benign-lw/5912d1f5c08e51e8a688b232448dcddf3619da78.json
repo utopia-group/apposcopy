@@ -1,0 +1,1 @@
+{"family":"[]","activities":["ss.wp.main","com.mobfox.sdk.InAppWebView"],"services":["ss.wp.SlideShowWallPaper"],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"ss.wp.main","val1":"$MODEL","val2":"ss.wp.main","val3":"!INTERNET"}],"samples":[]}

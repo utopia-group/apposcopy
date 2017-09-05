@@ -1,0 +1,1 @@
+{"family":"[]","activities":["gameshot.Angry.SplashActivity","gameshot.Angry.AngryActivity"],"services":[],"receivers":[],"iccg":[{"val0":"gameshot.Angry.AngryActivity","val1":"gameshot.Angry.SplashActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

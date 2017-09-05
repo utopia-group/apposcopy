@@ -1,0 +1,1 @@
+{"family":"[]","activities":["johnmoore.ampachenet.ConfigurationActivity","johnmoore.ampachenet.NowPlaying","johnmoore.ampachenet.LookupActivity","johnmoore.ampachenet.AmpacheNetActivity"],"services":["johnmoore.ampachenet.AmpacheService"],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["cn.crazy.GuaDetails","cn.crazy.Crazy64Gua"],"services":[],"receivers":[],"iccg":[{"val0":"cn.crazy.Crazy64Gua","val1":"cn.crazy.GuaDetails"},{"val0":"cn.crazy.Crazy64Gua","val1":"cn.crazy.Crazy64Gua"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

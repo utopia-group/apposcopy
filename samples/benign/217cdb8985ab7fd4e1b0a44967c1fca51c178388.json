@@ -1,0 +1,1 @@
+{"family":"[]","activities":["vidyaworks.oxeye.DetectActivity","vidyaworks.oxeye.TitleActivity"],"services":[],"receivers":[],"iccg":[{"val0":"vidyaworks.oxeye.TitleActivity","val1":"vidyaworks.oxeye.DetectActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

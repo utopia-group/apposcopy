@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gone60.gone60"],"services":["com.gone60.MyService"],"receivers":[],"iccg":[{"val0":"com.gone60.gone60","val1":"com.gone60.MyService"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

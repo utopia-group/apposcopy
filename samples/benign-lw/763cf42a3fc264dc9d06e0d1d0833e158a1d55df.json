@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.pants.android.espn.ESPNBrowser"],"services":[],"receivers":[],"iccg":[{"val0":"com.pants.android.espn.ESPNBrowser","val1":"com.pants.android.espn.ESPNBrowser"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

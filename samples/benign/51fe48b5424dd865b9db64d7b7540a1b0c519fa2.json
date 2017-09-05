@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.tools.StrobelightS.FlashlightS","com.tools.StrobelightS.Brank","com.tools.StrobelightS.LightOne"],"services":[],"receivers":[],"iccg":[{"val0":"com.tools.StrobelightS.LightOne","val1":"com.tools.StrobelightS.Brank"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

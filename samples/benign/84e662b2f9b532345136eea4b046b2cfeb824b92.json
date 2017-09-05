@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.foncannoninc.hangmanfrench.Startup"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.foncannoninc.hangmanfrench.Startup","val1":"$MODEL","val2":"com.foncannoninc.hangmanfrench.Startup","val3":"!INTERNET"}]}

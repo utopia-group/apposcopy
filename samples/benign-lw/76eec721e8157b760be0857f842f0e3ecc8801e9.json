@@ -1,0 +1,1 @@
+{"family":"[]","activities":["cn.mobgo.locker.word.Locker","cn.mobgo.locker.word.CharChooser"],"services":[],"receivers":[],"iccg":[{"val0":"cn.mobgo.locker.word.Locker","val1":"cn.mobgo.locker.word.Locker"},{"val0":"cn.mobgo.locker.word.Locker","val1":"cn.mobgo.locker.word.CharChooser"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

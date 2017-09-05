@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.nextstep.NextStepActivity","com.nextstep.UsingMyWebview"],"services":[],"receivers":[],"iccg":[{"val0":"com.nextstep.NextStepActivity","val1":"com.nextstep.NextStepActivity"},{"val0":"com.nextstep.NextStepActivity","val1":"com.nextstep.UsingMyWebview"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

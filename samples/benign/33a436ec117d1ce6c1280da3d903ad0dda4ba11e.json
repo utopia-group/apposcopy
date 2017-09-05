@@ -1,0 +1,1 @@
+{"family":"[]","activities":["chg.acc.Main","chg.acc.Screen","chg.acc.LocationList"],"services":["chg.acc.accService"],"receivers":[],"iccg":[{"val0":"chg.acc.Main","val1":"chg.acc.accService"},{"val0":"chg.acc.Main","val1":"chg.acc.LocationList"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

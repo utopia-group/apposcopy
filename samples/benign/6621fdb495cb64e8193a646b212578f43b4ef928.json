@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.thomasokken.free42.Free42Activity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.thomasokken.free42.Free42Activity","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

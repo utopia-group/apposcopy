@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.meganfoxwallpaperdayj.Splash","com.meganfoxwallpaperdayj.FirstWallpaper","com.google.ads.AdActivity"],"services":[],"receivers":["com.google.ads.InstallReceiver"],"iccg":[{"val0":"com.meganfoxwallpaperdayj.Splash","val1":"com.meganfoxwallpaperdayj.FirstWallpaper"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

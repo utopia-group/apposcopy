@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.admob.android.ads.AdMobActivity","magic.card.Main","magic.card.About"],"services":[],"receivers":[],"iccg":[{"val0":"magic.card.Main","val1":"magic.card.About"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.admob.android.ads.AdMobActivity","val1":"$MODEL","val2":"com.admob.android.ads.AdMobActivity","val3":"!INTERNET"}]}

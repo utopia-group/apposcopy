@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.coalaconsulting.mw.MainActivity","com.coalaconsulting.mw.InfoActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.coalaconsulting.mw.MainActivity","val1":"com.coalaconsulting.mw.InfoActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

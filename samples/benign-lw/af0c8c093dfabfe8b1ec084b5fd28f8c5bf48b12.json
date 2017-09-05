@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.apposite.masseffect3wallpaper.MassEffect3Wallpaper"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.apposite.masseffect3wallpaper.MassEffect3Wallpaper","val1":"\u003candroid.app.WallpaperManager: void setBitmap(android.graphics.Bitmap)\u003e"}],"taintFlows":[],"samples":[]}

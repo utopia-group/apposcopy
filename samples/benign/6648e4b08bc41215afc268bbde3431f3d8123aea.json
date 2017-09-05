@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.cmyksoft.snake.free.Main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.cmyksoft.snake.free.Main","val1":"\u003cjavax.crypto.Cipher: byte[] doFinal(byte[])\u003e"}],"taintFlows":[]}

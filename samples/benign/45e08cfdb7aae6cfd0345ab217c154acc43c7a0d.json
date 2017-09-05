@@ -1,0 +1,1 @@
+{"family":"[]","activities":["cxboy.android.game.puzzle.PuzzleActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"cxboy.android.game.puzzle.PuzzleActivity","val1":"$MODEL","val2":"cxboy.android.game.puzzle.PuzzleActivity","val3":"!INTERNET"}]}

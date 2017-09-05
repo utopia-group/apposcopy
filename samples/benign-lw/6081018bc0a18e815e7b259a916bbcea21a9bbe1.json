@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.friend.Home","com.friend.Main"],"services":[],"receivers":[],"iccg":[{"val0":"com.friend.Main","val1":"com.friend.Home"},{"val0":"com.friend.Main","val1":"com.friend.Main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

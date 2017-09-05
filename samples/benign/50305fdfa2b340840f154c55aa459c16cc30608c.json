@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.stone.app.montage.montage","com.stone.app.montage.main","com.stone.app.montage.menu"],"services":[],"receivers":[],"iccg":[{"val0":"com.stone.app.montage.montage","val1":"com.stone.app.montage.menu"},{"val0":"com.stone.app.montage.menu","val1":"com.stone.app.montage.main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

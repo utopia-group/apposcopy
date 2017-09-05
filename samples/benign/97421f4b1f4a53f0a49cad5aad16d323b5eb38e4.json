@@ -1,0 +1,1 @@
+{"family":"[]","activities":["nicdy.game.TH01.ACT_TH01"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"nicdy.game.TH01.ACT_TH01","val1":"$MODEL","val2":"nicdy.game.TH01.ACT_TH01","val3":"!WebView"},{"val0":"nicdy.game.TH01.ACT_TH01","val1":"$MODEL","val2":"nicdy.game.TH01.ACT_TH01","val3":"!INTERNET"}],"samples":[]}

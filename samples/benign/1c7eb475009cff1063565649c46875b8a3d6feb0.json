@@ -1,0 +1,1 @@
+{"family":"[]","activities":["net.hehe365.wwdz.MainList","net.hehe365.wwdz.ViewPage","net.hehe365.wwdz.SplashyDemo"],"services":[],"receivers":[],"iccg":[{"val0":"net.hehe365.wwdz.MainList","val1":"net.hehe365.wwdz.ViewPage"},{"val0":"net.hehe365.wwdz.SplashyDemo","val1":"net.hehe365.wwdz.MainList"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

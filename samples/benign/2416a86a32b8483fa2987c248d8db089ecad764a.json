@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.awyse.talkingcarl.InfoActivity","com.awyse.talkingcarl.TalkingCarlGL"],"services":[],"receivers":[],"iccg":[{"val0":"com.awyse.talkingcarl.TalkingCarlGL","val1":"com.awyse.talkingcarl.InfoActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

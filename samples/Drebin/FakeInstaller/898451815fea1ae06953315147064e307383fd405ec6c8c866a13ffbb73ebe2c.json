@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.csegveth.b"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.csegveth.b","val1":"\u003candroid.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)\u003e"}],"taintFlows":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.declansoftware.wordofthedaychinese.main"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.declansoftware.wordofthedaychinese.main","val1":"$getDeviceId","val2":"com.declansoftware.wordofthedaychinese.main","val3":"!INTERNET"}],"samples":[]}

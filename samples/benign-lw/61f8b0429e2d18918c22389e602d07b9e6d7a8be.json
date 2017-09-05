@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.khanning.dropdownwidget.PullDown","com.khanning.dropdownwidget.WidgetConfig","com.khanning.dropdownwidget.WidgetShortcut","com.google.ads.AdActivity"],"services":["com.khanning.dropdownwidget.WidgetMain$ToggleService"],"receivers":["com.khanning.dropdownwidget.WidgetMain"],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

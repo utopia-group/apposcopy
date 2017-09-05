@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.splashforums.android.AndroidBoard","com.mobclix.android.sdk.MobclixBrowserActivity","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

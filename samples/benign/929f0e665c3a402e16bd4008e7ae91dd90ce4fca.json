@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.appformatics.zip_skin_installer.main","com.appformatics.zip_skin_installer.FileChooser"],"services":[],"receivers":[],"iccg":[{"val0":"com.appformatics.zip_skin_installer.main","val1":"com.appformatics.zip_skin_installer.FileChooser"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

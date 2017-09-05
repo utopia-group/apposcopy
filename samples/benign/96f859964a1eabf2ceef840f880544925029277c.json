@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.cnc.oc5.viewer","com.cnc.oc5.Onecomic5Activity"],"services":[],"receivers":[],"iccg":[{"val0":"com.cnc.oc5.viewer","val1":"com.cnc.oc5.Onecomic5Activity"},{"val0":"com.cnc.oc5.Onecomic5Activity","val1":"com.cnc.oc5.viewer"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

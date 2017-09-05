@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.yoyogames.droidskydiver.RunnerActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.yoyogames.droidskydiver.RunnerActivity","val1":"\u003cjavax.crypto.Cipher: byte[] doFinal(byte[])\u003e"}],"taintFlows":[],"samples":[]}

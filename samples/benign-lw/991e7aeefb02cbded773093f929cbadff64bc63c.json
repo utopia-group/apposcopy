@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.mtatransitneedzed.WView","com.mtatransitneedzed.Splash","com.google.ads.AdActivity"],"services":[],"receivers":["com.google.ads.InstallReceiver"],"iccg":[{"val0":"com.mtatransitneedzed.Splash","val1":"com.mtatransitneedzed.WView"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

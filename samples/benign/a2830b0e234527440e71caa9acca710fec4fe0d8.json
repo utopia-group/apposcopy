@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.fullquieting.android.FatCalc.FatCalc","com.fullquieting.android.FatCalc.Prefs"],"services":[],"receivers":[],"iccg":[{"val0":"com.fullquieting.android.FatCalc.FatCalc","val1":"com.fullquieting.android.FatCalc.Prefs"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

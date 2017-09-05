@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.gau.go.launcherex.theme.totoro.Template"],"services":["com.gau.go.launcherex.theme.totoro.GoDownloadService"],"receivers":[],"iccg":[{"val0":"com.gau.go.launcherex.theme.totoro.GoDownloadService","val1":"INSTALL_APK"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

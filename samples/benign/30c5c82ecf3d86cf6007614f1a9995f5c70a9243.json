@@ -1,0 +1,1 @@
+{"family":"[]","activities":["tv.lccnet.VideoActivity","tv.lccnet.MainActivity"],"services":[],"receivers":[],"iccg":[{"val0":"tv.lccnet.MainActivity","val1":"tv.lccnet.VideoActivity"}],"intentFilters":[],"dangerAPIs":[{"val0":"tv.lccnet.VideoActivity","val1":"\u003cjava.lang.System: void load(java.lang.String)\u003e"}],"taintFlows":[]}

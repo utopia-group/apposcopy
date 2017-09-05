@@ -1,0 +1,1 @@
+{"family":"[]","activities":["it.gateofgames.bioritmo.App","it.gateofgames.bioritmo.SimpleBio"],"services":[],"receivers":[],"iccg":[{"val0":"it.gateofgames.bioritmo.App","val1":"it.gateofgames.bioritmo.App"},{"val0":"it.gateofgames.bioritmo.App","val1":"it.gateofgames.bioritmo.SimpleBio"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

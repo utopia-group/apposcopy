@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.android.life.Life","com.android.life.Welcome"],"services":[],"receivers":[],"iccg":[{"val0":"com.android.life.Welcome","val1":"com.android.life.Life"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

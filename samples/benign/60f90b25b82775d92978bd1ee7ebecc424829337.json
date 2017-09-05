@@ -1,0 +1,1 @@
+{"family":"[]","activities":["HomeShoppingList.newtec.ShoppingList","HomeShoppingList.newtec.AddEdit"],"services":[],"receivers":[],"iccg":[{"val0":"HomeShoppingList.newtec.ShoppingList","val1":"HomeShoppingList.newtec.AddEdit"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

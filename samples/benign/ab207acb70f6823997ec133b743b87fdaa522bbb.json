@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.webdevdynamics.distancecalculator.HelpActivity","com.webdevdynamics.distancecalculator.DistanceCalculator"],"services":[],"receivers":[],"iccg":[{"val0":"com.webdevdynamics.distancecalculator.DistanceCalculator","val1":"com.webdevdynamics.distancecalculator.HelpActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

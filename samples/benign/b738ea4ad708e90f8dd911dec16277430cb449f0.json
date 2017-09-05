@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.phonegap.DroidGap","com.labforecast.stocknrisk.STOCK_nRISK"],"services":[],"receivers":[],"iccg":[{"val0":"com.phonegap.DroidGap","val1":"com.phonegap.DroidGap"},{"val0":"com.labforecast.stocknrisk.STOCK_nRISK","val1":"com.phonegap.DroidGap"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

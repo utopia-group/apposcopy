@@ -1,0 +1,1 @@
+{"family":"[]","activities":["info.lamatricexiste.alarm.Alarm","info.lamatricexiste.alarm.Prefs"],"services":[],"receivers":[],"iccg":[{"val0":"info.lamatricexiste.alarm.Alarm","val1":"info.lamatricexiste.alarm.Alarm"},{"val0":"info.lamatricexiste.alarm.Alarm","val1":"info.lamatricexiste.alarm.Prefs"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

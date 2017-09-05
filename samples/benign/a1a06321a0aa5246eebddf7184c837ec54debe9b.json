@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.wifiprobe.WifiProbeActivity","com.wifiprobe.WifiProbePreferences"],"services":[],"receivers":[],"iccg":[{"val0":"com.wifiprobe.WifiProbeActivity","val1":"com.wifiprobe.WifiProbeActivity"},{"val0":"com.wifiprobe.WifiProbeActivity","val1":"com.wifiprobe.WifiProbePreferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

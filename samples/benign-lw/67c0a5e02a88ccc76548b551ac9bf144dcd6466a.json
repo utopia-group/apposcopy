@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","girlcode.myWord.myWordActivity","girlcode.myWord.Preferences"],"services":[],"receivers":[],"iccg":[{"val0":"girlcode.myWord.myWordActivity","val1":"girlcode.myWord.Preferences"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

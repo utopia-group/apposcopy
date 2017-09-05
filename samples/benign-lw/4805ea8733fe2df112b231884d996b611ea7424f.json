@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.opera.core.VideoPlayer","com.opera.Opera"],"services":["com.opera.core.AudioPlayer"],"receivers":["com.opera.plugins.OperaPluginManager$MediaButtonIntentRec"],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"com.opera.Opera","val1":"\u003cjava.lang.System: void load(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.rootive.lm.kanjidices.IntentHandler","com.rootive.lm.kanjidices.Main"],"services":[],"receivers":[],"iccg":[{"val0":"com.rootive.lm.kanjidices.IntentHandler","val1":"com.rootive.lm.kanjidices.Main"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

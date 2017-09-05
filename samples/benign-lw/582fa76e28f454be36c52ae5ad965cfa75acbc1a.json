@@ -1,0 +1,1 @@
+{"family":"[]","activities":[],"services":["se.tat.wallpaper.retropixels.RetroPixels"],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[{"val0":"se.tat.wallpaper.retropixels.RetroPixels","val1":"\u003cjava.lang.System: void loadLibrary(java.lang.String)\u003e"}],"taintFlows":[],"samples":[]}

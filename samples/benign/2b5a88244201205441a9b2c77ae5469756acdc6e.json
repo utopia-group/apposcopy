@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","igt.fruited.GameActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.google.ads.AdActivity","val1":"com.google.ads.AdActivity"},{"val0":"igt.fruited.GameActivity","val1":"igt.fruited.GameActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.kmj.BillboardChart.MainActivity","com.google.ads.AdActivity"],"services":[],"receivers":[],"iccg":[],"intentFilters":[],"dangerAPIs":[],"taintFlows":[{"val0":"com.kmj.BillboardChart.MainActivity","val1":"$File","val2":"com.kmj.BillboardChart.MainActivity","val3":"!INTERNET"}],"samples":[]}

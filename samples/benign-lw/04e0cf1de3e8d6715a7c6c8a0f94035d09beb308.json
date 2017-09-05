@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.google.ads.AdActivity","com.wp.pxKofathena.pxKofathena"],"services":[],"receivers":[],"iccg":[{"val0":"com.wp.pxKofathena.pxKofathena","val1":"com.google.ads.AdActivity"},{"val0":"com.wp.pxKofathena.pxKofathena","val1":"com.wp.pxKofathena.pxKofathena"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[],"samples":[]}

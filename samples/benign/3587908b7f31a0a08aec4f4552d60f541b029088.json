@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.vistechprojects.piex.CameraActivity","com.vistechprojects.piex.HelpActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.vistechprojects.piex.CameraActivity","val1":"com.vistechprojects.piex.HelpActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}

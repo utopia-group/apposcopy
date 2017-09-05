@@ -1,0 +1,1 @@
+{"family":"[]","activities":["com.jeremykie.android.PreferencesActivity","com.jeremykie.android.ScheduleListActivity"],"services":[],"receivers":[],"iccg":[{"val0":"com.jeremykie.android.ScheduleListActivity","val1":"com.jeremykie.android.PreferencesActivity"}],"intentFilters":[],"dangerAPIs":[],"taintFlows":[]}
