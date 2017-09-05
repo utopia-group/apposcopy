@@ -61,7 +61,9 @@ To analyze a malware (Say, an app from ADRD family):
 ```
 
    Example1:
+```
    ./approximate.sh signatures/ADRD.json samples/fse14/ADRD/09b143b430e836c513279c0209b7229a4d29a18c.json 4927 0
+```
 
 ```
    Output:
@@ -70,7 +72,9 @@ To analyze a malware (Say, an app from ADRD family):
 ```
 
    Example2a using lexicographical order:
+```
    ./approximate.sh signatures samples/fse14/ADRD/09b143b430e836c513279c0209b7229a4d29a18c.json 4927 0
+```
 
 ```
    Output:
@@ -91,7 +95,9 @@ To analyze a malware (Say, an app from ADRD family):
 ```
 
    Example2b using lexicographical order with frequency analysis:
+```
    ./approximate.sh signatures samples/fse14/ADRD/09b143b430e836c513279c0209b7229a4d29a18c.json 4927 1		
+```
 
 ```
    Malware
