@@ -32,6 +32,9 @@ import chord.util.tuple.object.Pair;
 public class Util {
 	
 	public static final boolean verbose = false;
+
+    //ugly!!!!
+    public static List<String> permissions = new ArrayList<>();
 	
 	// Return all connected subgraphs
 	public static List<Set<Pair<String, String>>> getSubGraphs(Set<Pair<String, String>> edges, Set<String> nodes){

@@ -42,9 +42,13 @@ public class Sample {
 
 	protected List<Pair<String, String>> dangerAPIs;
 
+	protected List<String> permissions;
+
 	protected List<Quad<String, String, String, String>> taintFlows;
-	
-	public Sample(){
+
+    protected List<Pair<String, String>> flows;
+
+    public Sample(){
 		
 		activities = new ArrayList<>();
 		services = new ArrayList<>();
@@ -131,6 +135,10 @@ public class Sample {
 		this.dangerAPIs = dangerAPIs;
 	}
 
+	public List<String> getPermissions() { return permissions; }
+
+	public void setPermissions(List<String> perms) { this.permissions = perms; }
+
 	public List<Quad<String, String, String, String>> getTaintFlows() {
 		return taintFlows;
 	}
@@ -138,6 +146,14 @@ public class Sample {
 	public void setTaintFlows(List<Quad<String, String, String, String>> taintFlows) {
 		this.taintFlows = taintFlows;
 	}
+
+    public List<Pair<String, String>> getFlows() {
+        return flows;
+    }
+
+    public void setFlows(List<Pair<String, String>> taintFlows) {
+        this.flows = taintFlows;
+    }
 	
 	public String toString() {
 		return "flows: " + taintFlows;

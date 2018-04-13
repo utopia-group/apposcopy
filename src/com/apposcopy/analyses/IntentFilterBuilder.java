@@ -244,7 +244,7 @@ public class IntentFilterBuilder extends JavaAnalysis
 
         for(Object node : SpecMethodBuilder.components.keySet()) {
             System.out.println("Component: " + node);
-            System.out.println("Value: " + SpecMethodBuilder.components.get(node));
+            System.out.println("Special methods: " + SpecMethodBuilder.components.get(node));
             XmlNode xml = SpecMethodBuilder.components.get(node);
             System.out.println("------------------------------------");
             if("service".equals(xml.getType()))

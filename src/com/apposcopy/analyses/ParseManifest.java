@@ -16,6 +16,7 @@
 package com.apposcopy.analyses;
 
 import java.io.File;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
@@ -25,6 +26,7 @@ import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathFactory;
 
+import com.apposcopy.util.Util;
 import org.w3c.dom.Document;
 import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
@@ -199,6 +201,20 @@ public class ParseManifest
 			findNodes(xpath, document, activities, "activity");
 		    findNodes(xpath, document, activities, "service");
 		    findNodes(xpath, document, activities, "receiver");
+
+		    // Extract permissions.
+            Set<String> permSet = new HashSet<>();
+            NodeList permList = (NodeList)
+                    xpath.evaluate("/manifest/uses-permission", document, XPathConstants.NODESET);
+            for (int i = 0; i < permList.getLength(); i++) {
+                Node permNode = permList.item(i);
+                Node perm = permNode.getAttributes().getNamedItem("android:name");
+                String permVal = perm.getNodeValue();
+                permSet.add(permVal);
+                //ugly!!!!
+                Util.permissions.add(permVal);
+            }
+//            System.out.println("[Feature vector (Permissions)]:" + permSet);
 
             ///add by yu
             NodeList mynodes = (NodeList)
