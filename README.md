@@ -41,12 +41,12 @@ To analyze a malware (Say, an app from ADRD family):
 
 1. Generate a new signature based on a random number of ICCGs of a given directory:
 
-   ./generate.sh samples/fse14/ADRD/ 2
+   ./generation.sh samples/fse14/ADRD/ 2
 
    This will select 2 samples randomly from that directory and will generate a signature that unifies them.
    If this directory only contains k samples, you can ask for a signature that unifies the k samples.
 
-   Usage: ./generate.sh <samples> <size>
+   Usage: ./generation.sh <samples> <size>
 
    Note that different runs may generate different signatures.
 
